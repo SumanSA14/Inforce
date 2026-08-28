@@ -1,0 +1,534 @@
+[
+ {
+  "qid": "unans-scope-01",
+  "text": "We have sanctioned loans against shares to clients who were allotted shares as anchor investors in a recent public issue. For how long are anchor investor shares locked in after allotment before those clients can sell them?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The anchor investor lock-in is fixed by SEBI's ICDR Regulations (a split lock-in running from the date of allotment). RBI's corpus governs bank lending against shares and capital market exposure, not the terms on which a primary issue is allotted. The corpus contains no ICDR material at all — 'anchor investor' returns zero chunks in chunk_fts.",
+  "expected_retrieval": "Master Circular / Directions on Loans and Advances - Statutory and Other Restrictions (advances against shares, the per-individual IPO finance ceiling) and the capital market exposure norms. These supply lending caps and margin requirements, which look like an answer but say nothing about how long an allottee must hold."
+ },
+ {
+  "qid": "unans-scope-02",
+  "text": "Our subsidiary offers portfolio management services. What is the minimum amount a single client must bring in to open a discretionary PMS account?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The minimum client investment for PMS is set by the SEBI (Portfolio Managers) Regulations. RBI material decides only whether a bank, its subsidiary or a primary dealer may undertake PMS at all, and imposes arm's-length, segregation and no-guaranteed-return conditions; no RBI document states a client-level minimum ticket size.",
+  "expected_retrieval": "The para-banking / 'Undertaking of Financial Services' Directions listing PMS as an activity permissible only through a subsidiary or JV, and the Master Direction - Operational Guidelines for Primary Dealers section 'Portfolio Management Services by SPDs', which sets conditions for offering PMS under the SEBI scheme without giving the threshold."
+ },
+ {
+  "qid": "unans-scope-03",
+  "text": "Our bank has been approached to act as sponsor of a Category II Alternative Investment Fund. What minimum continuing interest must the sponsor keep invested in the scheme?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "Sponsor continuing interest (a percentage of corpus or an absolute rupee floor, whichever is lower) is prescribed by the SEBI (Alternative Investment Funds) Regulations. RBI's AIF instructions to regulated entities deal only with a regulated entity's investment in an AIF scheme that has downstream exposure to its own debtor company, and the resulting provisioning and capital treatment.",
+  "expected_retrieval": "The RBI circulars restricting regulated entities' investments in AIFs and the follow-up clarification, including the chunk requiring 100 percent provision on the proportionate investment in a debtor company through an AIF scheme. Highly relevant vocabulary, wrong obligation-holder."
+ },
+ {
+  "qid": "unans-scope-04",
+  "text": "How many days before the board meeting that approves our quarterly results must the trading window be closed for designated employees who deal in the bank's own shares?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "Trading window closure for unpublished price sensitive information is governed by the code of conduct under the SEBI (Prohibition of Insider Trading) Regulations. RBI's compliance-function and corporate-governance directions require a bank to observe other regulators' requirements but nowhere state a closure period; the corpus contains no PIT code.",
+  "expected_retrieval": "The Master Direction on Compliance Function (including the paragraph requiring the compliance function to attend to directions from other regulators), the Corporate Governance Directions, and staff conduct chunks. Twelve chunks mention insider trading, all as cross-references."
+ },
+ {
+  "qid": "unans-scope-05",
+  "text": "We hold units of a REIT within the permitted investment limit. What proportion of its net distributable cash flow is that REIT obliged to distribute to unit holders each year?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The mandatory distribution percentage and its frequency come from the SEBI (Real Estate Investment Trusts) Regulations. The RBI corpus defines a REIT only by reference to the Income-tax Act and caps a bank's holding in the units; it imposes no obligation on the trust itself. All seven REIT chunks are definitional or exposure-limit text.",
+  "expected_retrieval": "The definitions clause of the money-market / NCD Directions defining REIT by cross-reference, the circular permitting banks to invest in units of REITs and InvITs subject to a ceiling, and investment-portfolio classification and valuation rules."
+ },
+ {
+  "qid": "unans-scope-06",
+  "text": "Our bank acts as a depository participant. Within how many days of receiving a client's dematerialisation request form must we confirm the demat to the depository?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "DP processing and confirmation timelines sit in the SEBI (Depositories and Participants) Regulations and the depositories' bye-laws. RBI's timelines in this area relate to SGL and constituent SGL accounts for government securities and to its own bond schemes, which are a separate settlement system entirely.",
+  "expected_retrieval": "Master Direction on Government Securities / SGL and CSGL account operation, savings and relief bond issuance instructions, and the several hundred chunks mentioning demat form and depository participants in KYC and account-opening contexts. The SGL turnaround rules read like a plausible substitute."
+ },
+ {
+  "qid": "unans-scope-07",
+  "text": "Where our bank as a self-certified syndicate bank fails to unblock a public issue applicant's funds on time after allotment, what compensation is payable to the applicant for each day of delay?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "Investor compensation for delayed unblocking of application money in a public issue is prescribed by SEBI in its ASBA / UPI circulars, and is enforced through the stock exchanges. RBI's compensation framework covers failed electronic payment transactions in the payment systems it regulates, not primary-market applications; 'ASBA' appears in only one chunk of the corpus.",
+  "expected_retrieval": "The circular on harmonisation of turn around time and customer compensation for failed transactions, which gives a per-day compensation amount for delayed reversals, plus the customer service Master Direction and the Integrated Ombudsman Scheme. The per-day figure there is a very attractive wrong answer."
+ },
+ {
+  "qid": "unans-scope-08",
+  "text": "How quickly after taking a rating action on one of our borrowers must the credit rating agency publish its press release?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "Rating action disclosure and press release timelines are obligations of SEBI-registered credit rating agencies under the SEBI (Credit Rating Agencies) Regulations and SEBI's operational circulars. RBI accredits agencies as external credit assessment institutions and prescribes how banks may use their ratings for risk weighting; it imposes no publication duty on the agency.",
+  "expected_retrieval": "The capital adequacy Master Directions' external rating chapter - eligible ECAIs, the requirement that a rating be in force and publicly available, rating mapping to risk weights, and the treatment of multiple ratings. Around 356 chunks mention credit rating agencies, so retrieval will be confident and wrong."
+ },
+ {
+  "qid": "unans-scope-09",
+  "text": "A borrower of ours has been tagged 'issuer not cooperating' by its rating agency. After how long must the agency downgrade that rating to non-investment grade?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The issuer-not-cooperating tag, its review discipline and the forced migration to non-investment grade are creations of SEBI's framework for credit rating agencies. RBI material tells banks how to risk-weight exposures that are unrated, or whose rating has been withdrawn or become stale, but never regulates what the agency itself must do.",
+  "expected_retrieval": "Risk-weight treatment of unrated exposures and of ratings that have lapsed or been withdrawn in the capital adequacy Directions, and instructions on use of accredited rating agencies' ratings. These give a percentage risk weight and a rating-age condition, which read as an answer to a different question."
+ },
+ {
+  "qid": "unans-scope-10",
+  "text": "What is the maximum position a single client may hold in a non-agricultural commodity futures contract on a recognised domestic exchange?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "Client and member level position limits in the commodity derivatives segment are set by SEBI and the recognised exchanges. RBI's only commodity derivatives material is the Directions on hedging of commodity price risk and freight risk in overseas markets, which govern residents hedging on exchanges outside India and deliberately leave domestic exchange trading to SEBI.",
+  "expected_retrieval": "Master Direction on Hedging of Commodity Price Risk and Freight Risk in Overseas Markets, the Risk Management and Inter-Bank Dealings Directions, and the 38 chunks containing 'position limit' - almost all of which are foreign exchange or overseas hedging limits, not commodity exchange limits."
+ },
+ {
+  "qid": "unans-scope-11",
+  "text": "Our bank holds a joint venture stake in a life insurance company. What minimum solvency ratio is that insurer required to maintain?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The control level of solvency for an insurer is set by IRDAI's assets, liabilities and solvency margin regulations. RBI's entry-into-insurance rules impose eligibility conditions on the bank or NBFC that wants to take the stake - net worth, capital adequacy, NPA levels, profitability - and never prescribe the insurer's own solvency requirement.",
+  "expected_retrieval": "The para-banking chapters on entry into insurance business by banks and by NBFCs, the annexes on banks acting as pension fund managers, and the capital adequacy Directions on minimum CRAR. Retrieval will surface a bank capital ratio and it will look like the answer."
+ },
+ {
+  "qid": "unans-scope-12",
+  "text": "A customer who bought a life policy through our branch now wants to cancel it. How long is the free-look period during which she can return the policy and get a refund of premium?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The free-look window and the refund computation are laid down in IRDAI's protection of policyholders' interests regulations. The RBI corpus contains no free-look provision at all - the term returns zero chunks - because the contract is between the customer and the insurer, with the bank acting only as a distributor.",
+  "expected_retrieval": "The Credit and Debit Card Directions (activation cooling-off and closure timelines), the customer service Master Direction, and the para-banking insurance distribution paragraphs including the anti-mis-selling and no-linkage instructions. Several nearby day-counts exist, none of them this one."
+ },
+ {
+  "qid": "unans-scope-13",
+  "text": "As a corporate agent distributing insurance, how many life insurers may our bank be tied up with at the same time?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The open architecture limit on the number of insurers per line of business that a corporate agent may represent comes from IRDAI's registration of corporate agents regulations. RBI's position is only that a bank may undertake corporate agency without its prior approval provided it complies with the insurance regulator's requirements - it sets no number.",
+  "expected_retrieval": "The 49 chunks mentioning corporate agent, principally the para-banking insurance business chapter and its referral-arrangement conditions, plus the compliance function paragraph on complying with directions of other regulators including IRDAI."
+ },
+ {
+  "qid": "unans-scope-14",
+  "text": "A borrower's credit-linked insurance claim has been pending with the insurer for over two months. Within what period must the insurer settle it, and at what rate must it pay interest for the delay?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "Claim settlement turnaround and the penal interest payable for delayed settlement are prescribed by IRDAI's protection of policyholders' interests regulations. RBI's compensation regime attaches to failed or delayed payment transactions and to deficient banking service, not to an insurer's contractual performance.",
+  "expected_retrieval": "The harmonisation of turn around time and customer compensation circular, the Integrated Ombudsman Scheme, and instructions on payment of interest for delayed credit. All contain a settlement window plus an interest rate, which is exactly the shape of the expected answer."
+ },
+ {
+  "qid": "unans-scope-15",
+  "text": "A customer retiring at 60 wants to take her entire NPS corpus in cash. What minimum share of the accumulated corpus has to be used to purchase an annuity?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The compulsory annuitisation proportion on exit, and the small-corpus exemption from it, are set by PFRDA's exits and withdrawals regulations. The RBI corpus regulates only whether a bank or NBFC may act as a point of presence or a pension fund manager; subscriber-level exit terms are outside the Banking Regulation Act and the RBI Act.",
+  "expected_retrieval": "The sections on undertaking point of presence services under PFRDA for NPS in the NBFC Directions, the annexes on guidelines for banks acting as pension fund managers, and deposit rules for senior citizens. Fifty-one chunks mention annuity, mostly in unrelated valuation or reverse mortgage contexts."
+ },
+ {
+  "qid": "unans-scope-16",
+  "text": "What is the maximum charge our bank may recover from a subscriber on each NPS contribution in its capacity as a point of presence?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The PoP charge structure - the percentage of contribution with its floor and cap - is fixed by PFRDA. RBI material states which entities may undertake PoP services and the approval needed, and separately requires bank service charges to be reasonable and non-discriminatory, but contains no PoP fee schedule.",
+  "expected_retrieval": "The 'Undertaking of Point of Presence Services under PFRDA for National Pension System' paragraphs in the Scale Based Regulation Directions, the customer service Master Direction on reasonableness of service charges, and the pension fund manager eligibility annexes."
+ },
+ {
+  "qid": "unans-scope-17",
+  "text": "At what level of annual interest paid on a customer's term deposits must the branch begin deducting tax at source, and at what rate?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The threshold and rate for TDS on interest other than securities are fixed by the Income-tax Act and CBDT, not by RBI. The corpus tells banks to make Form 15G/H easily available and to issue TDS certificates promptly - a procedural customer-service duty - but nowhere states the threshold or the rate.",
+  "expected_retrieval": "The Master Direction on Interest Rate on Deposits, the customer service chapters on ease of filing Form 15G/H for senior citizens and on issuing tax deduction certificates, and the 111 chunks matching 'tax deducted at source', most of which are balance sheet disclosure line items."
+ },
+ {
+  "qid": "unans-scope-18",
+  "text": "Above what level of aggregate annual cash withdrawal from an account must we deduct tax at source, and at what rate?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "TDS on cash withdrawals above a specified aggregate is a provision of the Income-tax Act administered by CBDT, with a differential rate for non-filers. RBI regulates cash withdrawal limits, free ATM transactions and currency handling; no RBI instruction imposes a withholding obligation on withdrawals.",
+  "expected_retrieval": "The 165 chunks on cash withdrawal - ATM free transaction limits and interchange, cash withdrawal at point of sale, currency chest and cash handling instructions, and withdrawal limits in specific account types such as BSBDA and small accounts. All produce a rupee threshold of the wrong kind."
+ },
+ {
+  "qid": "unans-scope-19",
+  "text": "What is the maximum deduction a customer can claim in a financial year for a five-year tax-saving fixed deposit placed with our bank?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The deduction ceiling belongs to section 80C of the Income-tax Act and the Bank Term Deposit Scheme notified by CBDT. RBI's deposit directions recognise such deposits only to the extent of restricting premature withdrawal during the lock-in; the deduction limit appears nowhere in the corpus (the single '80C' match is a paragraph number in a provisioning direction).",
+  "expected_retrieval": "The Master Direction on Interest Rate on Deposits - term deposit definitions, premature withdrawal rules and the no-premature-withdrawal condition attached to tax-saving deposits - and general deposit scheme chunks."
+ },
+ {
+  "qid": "unans-scope-20",
+  "text": "Within how many days of creating a hypothecation charge over a corporate borrower's assets must the charge be registered with the Registrar of Companies?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "Registration of charges, the base period and the extended period on payment of additional fees are governed by the Companies Act and administered by MCA through the Registrar of Companies. RBI requires registration of security interests with CERSAI and prescribes documentation and title-deed practices, which is a different register under a different statute.",
+  "expected_retrieval": "Instructions on registration of security interest with CERSAI (which carries its own thirty-day style timeline), the Loans and Advances Directions, lending against immovable property and release of movable and immovable property documents, and the 125 chunks mentioning the Registrar of Companies. A near-identical-looking deadline exists in the corpus for the wrong register."
+ },
+ {
+  "qid": "unans-scope-21",
+  "text": "What percentage of average net profits is our bank required to spend on corporate social responsibility, and over how many preceding years is that average worked out?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "The CSR spend obligation, the averaging period and the applicability thresholds are in section 135 of the Companies Act and the CSR Rules, enforced by MCA. RBI's only CSR document is an advisory circular on corporate social responsibility, sustainable development and non-financial reporting that encourages banks to act but prescribes no percentage; a co-operative bank chunk merely lists illustrative CSR activities.",
+  "expected_retrieval": "The 2007 circular on Corporate Social Responsibility, Sustainable Development and Non-Financial Reporting - Role of Banks, the illustrative CSR activity list in a co-operative bank document, corporate governance directions, and priority sector lending targets, which offer percentage-of-portfolio figures that a model could easily misappropriate."
+ },
+ {
+  "qid": "unans-scope-22",
+  "text": "What stamp duty is payable on the deed of mortgage executed by a borrower to secure a housing loan from our bank?",
+  "type": "other_regulator_domain",
+  "why_unanswerable": "Stamp duty on a mortgage instrument is levied under the Indian Stamp Act as amended by, or under, the relevant state Stamp Act, and the rate varies by state. RBI has no power to levy or prescribe stamp duty and the corpus contains no rate schedule - the 54 stamp duty chunks are incidental references in documentation, assignment and securitisation contexts.",
+  "expected_retrieval": "The Master Circular / Directions on housing finance, instructions on release of movable and immovable property documents after loan closure, securitisation and transfer of loan exposure documentation paragraphs, and equitable mortgage / title deed chunks that mention stamp duty in passing."
+ },
+ {
+  "qid": "unans-power-01",
+  "text": "What priority sector lending target must a payments bank meet as a share of its adjusted net bank credit?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "Payments banks are barred from undertaking any lending activity (Guidelines for Licensing of Payments Banks, 2014 and the Operating Guidelines for Payments Banks, 2016). A PSL target is computed on adjusted net bank credit, which a payments bank cannot generate, so no PSL target or shortfall mechanism has ever been prescribed for this entity class. Checkable: the PSL Master Directions enumerate the bank categories they apply to (commercial banks including SFBs and RRBs, UCBs) and payments banks are not among them.",
+  "expected_retrieval": "Master Directions on Priority Sector Lending - Targets and Classification; PSL targets prescribed for small finance banks, RRBs and urban co-operative banks; RIDF/other-fund shortfall contribution circulars; the Operating Guidelines for Payments Banks (which discuss deposits and the 75% SLR investment norm but say nothing about PSL). All will look like a direct hit while none contains a payments bank target."
+ },
+ {
+  "qid": "unans-power-02",
+  "text": "What risk weight does a payments bank apply to its unsecured retail loans when computing capital adequacy?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "A payments bank has no loan book at all - lending of any kind is outside its permitted activities. Its prescribed 15% CRAR under the payments bank operating guidelines is applied to investments and operational risk, not to credit exposures. No RBI instrument assigns a credit risk weight to a payments bank's retail loans because such loans cannot exist.",
+  "expected_retrieval": "Basel III capital regulations master circular risk-weight tables; the November 2023 circular raising the consumer credit risk weight to 125% for banks and NBFCs; capital adequacy provisions in the Operating Guidelines for Payments Banks (which set 15% CRAR and will match strongly on 'payments bank' plus 'capital adequacy'); NBFC scale-based capital norms."
+ },
+ {
+  "qid": "unans-power-03",
+  "text": "How soon must a payments bank close a customer's credit card account after a closure request before the daily penalty starts?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "Payments banks are expressly not permitted to issue credit cards (they may issue debit and prepaid instruments only). The seven-working-day closure requirement and the per-day delay penalty in the card issuance directions bind card-issuing banks and NBFCs; a payments bank is not, and cannot be, a credit card issuer, so the timeline does not apply to it and no payments-bank-specific rule exists.",
+  "expected_retrieval": "Master Direction on Credit Card and Debit Card - Issuance and Conduct Directions (closure timelines and the daily penalty for delayed closure); credit card customer-consent and card-activation circulars; the payments bank operating guidelines' section on debit/ATM cards. Retrieval will return the closure rule and it will read as if it answers the question."
+ },
+ {
+  "qid": "unans-power-04",
+  "text": "What is the ceiling on a payments bank's exposure to a single borrower, as a share of its tier 1 capital?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "Single-borrower and group exposure ceilings presuppose borrowers. A payments bank cannot lend, so it has no credit exposures to a borrower and no such ceiling has been prescribed for it. Checkable: the Large Exposures Framework states the bank categories in its applicability clause, and payments banks are not covered by a single-borrower limit because the underlying activity is prohibited.",
+  "expected_retrieval": "Large Exposures Framework; single- and group-borrower exposure norms in the exposure-norms directions for commercial banks and for urban co-operative banks; NBFC scale-based concentration norms; the payments bank guidelines' investment and counterparty provisions. Several genuine tier-1-percentage ceilings will surface, none of them for a payments bank."
+ },
+ {
+  "qid": "unans-power-05",
+  "text": "What premature-withdrawal penalty may a payments bank levy on a five crore rupee term deposit from one customer?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "Two independent prohibitions make this impossible: a payments bank may accept demand deposits only (savings and current), not term deposits, and it may hold a maximum end-of-day balance of two lakh rupees per individual customer. A five crore rupee single-customer term deposit therefore cannot exist at a payments bank, so no interest-rate or premature-withdrawal rule governs it.",
+  "expected_retrieval": "Master Direction on Interest Rate on Deposits (bulk deposit definition, premature withdrawal penalty and the option to offer non-callable deposits); circulars raising the payments bank per-customer end-of-day balance ceiling; deposit interest rate directions for co-operative banks. Retrieval returns real premature-withdrawal penalty rules written for entities that may take term deposits."
+ },
+ {
+  "qid": "unans-power-06",
+  "text": "In a co-lending arrangement with an NBFC, what share of each loan must a payments bank keep on its own books?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "Co-lending is a lending arrangement, and a payments bank cannot lend. The retention share prescribed under the co-lending framework applies to banks permitted to undertake credit; a payments bank cannot be an originating or a partnering lender, so no retention percentage exists for it.",
+  "expected_retrieval": "The co-lending model circular and the master direction on co-lending arrangements (retention share, escrow account operation, blended interest rate); outsourcing of financial services directions; direct assignment and loan transfer directions. The retention-share number in these documents is real - it simply never applies to a payments bank."
+ },
+ {
+  "qid": "unans-power-07",
+  "text": "What approval does a small finance bank need to set up a subsidiary for equipment leasing and hire purchase?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "The small finance bank licensing guidelines expressly bar an SFB from setting up subsidiaries to undertake non-banking financial services activities; equipment leasing and hire purchase are exactly such activities. There is no approval route, net owned fund requirement or application process for an SFB subsidiary of this kind because the structure itself is not permitted.",
+  "expected_retrieval": "Master Direction on Financial Services Provided by Banks (para-banking), which sets out the conditions under which a bank may set up subsidiaries for financial services; NBFC registration and net-owned-fund requirements; the SFB licensing and on-tap licensing guidelines. The para-banking directions will read like a general answer covering all banks."
+ },
+ {
+  "qid": "unans-power-08",
+  "text": "How does a small finance bank consolidate its NBFC subsidiary's exposures for group capital adequacy?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "The question presupposes an SFB holding an NBFC subsidiary, which the SFB licensing guidelines prohibit (no subsidiaries for non-banking financial services activities). Since no small finance bank may have such a subsidiary, RBI has prescribed no consolidation, group capital adequacy or group exposure treatment for one.",
+  "expected_retrieval": "Circulars on consolidated prudential reporting and consolidated supervision of banking groups; group risk management and intra-group transaction and exposure guidelines; the group exposure ceiling in the Large Exposures Framework; SFB prudential norms. These describe genuine consolidation mechanics for banking groups that may hold such subsidiaries."
+ },
+ {
+  "qid": "unans-power-09",
+  "text": "When must a credit information company classify a loan to a member institution as non-performing?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "A credit information company registered under the Credit Information Companies (Regulation) Act is licensed only to collect, process and disseminate credit information. It is not a lender and holds no loan book, so no income recognition, asset classification or provisioning norm has been issued for a CIC. The 90-day NPA rule lives in the IRAC norms, whose applicability clause covers banks and NBFCs, not CICs.",
+  "expected_retrieval": "Master Circular on Prudential Norms on Income Recognition, Asset Classification and Provisioning; the SMA/NPA classification clarification circulars; NBFC prudential norms in the scale-based regulation directions; CIC master directions on membership and data quality. The 90-day rule will surface with high confidence and is entirely inapplicable here."
+ },
+ {
+  "qid": "unans-power-10",
+  "text": "What is the longest tenor of a fixed deposit a credit information company may accept from the public?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "Credit information companies are not deposit-taking entities; deposit acceptance is not among the activities permitted to a CIC under its registration. There is therefore no minimum or maximum tenor, no interest ceiling and no deposit insurance position prescribed for a CIC deposit, because a CIC cannot accept one.",
+  "expected_retrieval": "Master Direction on Acceptance of Public Deposits by NBFCs (12 to 60 month maturity band); deposit interest rate directions for banks; DICGC deposit insurance circulars; CIC registration and regulation master directions. Retrieval will pair a real 12-60 month tenor rule with the CIC documents and look convincing."
+ },
+ {
+  "qid": "unans-power-11",
+  "text": "What must a credit information company do before engaging a recovery agent to collect from a borrower?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "A credit information company has no borrowers - it neither lends nor holds receivables from individuals. Recovery agent norms (due diligence, permitted contact hours, agent training, borrower notification) are addressed to lenders: banks and NBFCs. No such obligation exists for a CIC because the underlying collection activity is not part of its permitted business.",
+  "expected_retrieval": "Circulars on engagement of recovery agents by banks; the fair practices code and recovery-agent provisions in the NBFC directions; Master Direction on Outsourcing of Financial Services; CIC directions on data correction and grievance redress. The recovery agent conduct rules are real and will retrieve strongly on 'recovery agent'."
+ },
+ {
+  "qid": "unans-power-12",
+  "text": "How many times its net owned funds may an asset reconstruction company hold in public deposits?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "An asset reconstruction company registered under SARFAESI is prohibited from accepting deposits; the ARC master direction states that an ARC shall not accept deposits. The deposit ceiling expressed as a multiple of net owned funds is a deposit-taking NBFC rule. No such multiple exists for an ARC, at any level, because the activity is barred outright.",
+  "expected_retrieval": "Master Direction on Acceptance of Public Deposits by NBFCs (deposit ceiling linked to NOF and to the investment-grade credit rating requirement); the Master Direction on Asset Reconstruction Companies (which does contain a 300 crore rupee net owned fund requirement and will match strongly on 'ARC' plus 'net owned funds'); ARC capital and SR investment circulars. The two will look composable into an answer."
+ },
+ {
+  "qid": "unans-power-13",
+  "text": "What disclosures must an asset reconstruction company make in an advertisement inviting public deposits?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "ARCs cannot accept public deposits at all, so they cannot solicit them. The advertisement content requirements, the application form contents and the requirement to deliver a copy of the advertisement to the Reserve Bank are prescribed for deposit-taking NBFCs. No advertisement rule has been issued for an ARC because an ARC inviting deposits would itself be impermissible.",
+  "expected_retrieval": "NBFC deposit advertisement rules and the advertisement/application-form provisions in the public deposit directions; the ARC master direction's disclosure and transparency requirements (auction notices, SR-related disclosures) which match on 'ARC' plus 'disclosure'; deposit solicitation caution notices."
+ },
+ {
+  "qid": "unans-power-14",
+  "text": "What approval does a local area bank need to open a branch outside its licensed districts?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "A local area bank is licensed with an area of operation confined to three contiguous districts; operating outside that area is not permitted, and general permission for branch expansion under the branch authorisation policy is granted to domestic scheduled commercial banks other than entities whose licence caps their geography. There is no approval route, capital requirement or application procedure prescribed for an LAB branch outside its licensed districts because such a branch cannot be authorised.",
+  "expected_retrieval": "Rationalisation of branch authorisation policy circulars and the 2017 banking outlet definition; the 25% unbanked rural centre requirement; branch licensing policy for small finance banks and for co-operative banks; the local area bank licensing scheme (which will match strongly on 'local area bank')."
+ },
+ {
+  "qid": "unans-power-15",
+  "text": "What are the eligibility conditions for a local area bank to open an IFSC Banking Unit at GIFT City?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "A local area bank's operations are confined to three contiguous districts, so it can have no presence at an international financial services centre or overseas. IBU eligibility and the minimum capital a parent bank must provide to its unit are addressed to banks with the requisite scale and licence to operate outside a limited local area. No eligibility condition exists for an LAB because the entity class is geographically barred from such a unit.",
+  "expected_retrieval": "The scheme for setting up IFSC Banking Units (eligibility and the minimum capital to be provided by the parent bank); overseas branch expansion and foreign branch reporting circulars; the LAB licensing scheme; SFB and payments bank licensing guidelines that state their area of operation. A concrete IBU minimum-capital figure will surface and appear to answer the question."
+ },
+ {
+  "qid": "unans-power-16",
+  "text": "What minimum chest balance must a local area bank maintain at a currency chest outside its area of operation?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "A local area bank cannot operate outside the three contiguous districts named in its licence, so it cannot establish or maintain any facility - a currency chest included - in a district outside that area. The minimum chest balance and the infrastructure eligibility norms for new currency chests are prescribed for banks that may operate at the proposed location. No norm exists for the situation the question assumes.",
+  "expected_retrieval": "Currency chest eligibility norms including minimum chest balance and strong-room area requirements; the currency distribution and exchange scheme; Master Direction on Currency Distribution; linkage of currency chests to bank branches. Real chest-balance figures will retrieve and read as generally applicable to banks."
+ },
+ {
+  "qid": "unans-power-17",
+  "text": "What share of its public deposits must a non-deposit-taking NBFC hold in unencumbered approved securities?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "A non-deposit-taking NBFC is registered on the express condition that it neither accepts nor holds public deposits. The liquid asset requirement under Section 45-IB of the RBI Act is calculated on the deposit liability of a deposit-taking NBFC. With a nil deposit base by definition, there is no percentage prescribed for an NBFC-ND, and none appears anywhere in the corpus.",
+  "expected_retrieval": "Master Direction on Acceptance of Public Deposits by NBFCs (the 15% liquid asset requirement under Section 45-IB and the lodging of securities with the designated banker); the liquidity coverage ratio requirements for large NBFCs under the scale-based directions; SLR requirements for banks. The 45-IB percentage is real and will retrieve confidently."
+ },
+ {
+  "qid": "unans-power-18",
+  "text": "What is the highest rate of interest a non-deposit-taking NBFC may offer on a public deposit?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "The interest rate ceiling and the permitted maturity band for NBFC public deposits are conditions on the deposit-taking permission itself. A non-deposit-taking NBFC holds no such permission and is prohibited from accepting public deposits, so no maximum rate has been prescribed for it. The prohibition, not a numeric cap, is the operative rule.",
+  "expected_retrieval": "Master Direction on Acceptance of Public Deposits by NBFCs (maximum permissible rate of interest and the 12 to 60 month maturity band); interest rate on deposits directions for banks; scale-based regulation directions describing the NBFC-ND-SI category. A specific maximum-rate figure for deposit-taking NBFCs will surface and is easy to misattribute."
+ },
+ {
+  "qid": "unans-power-19",
+  "text": "How often must a non-deposit-taking NBFC file its return on public deposits?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "Deposit returns are prescribed for NBFCs holding public deposits; a non-deposit-taking NBFC has no deposit liability to report and files a different return set covering its assets, exposures and capital. There is no frequency, threshold or auditor-certificate requirement for a public deposit return by an NBFC-ND, because the return itself does not apply to that category.",
+  "expected_retrieval": "Master Direction on Returns to be Submitted by NBFCs (the deposit return and its periodicity, alongside the returns applicable to non-deposit-taking NBFCs); statutory auditor certificate circulars on the deposit-acceptance status of an NBFC; XBRL return filing circulars. Retrieval will surface a real return periodicity that belongs to the deposit-taking category."
+ },
+ {
+  "qid": "unans-power-20",
+  "text": "Within how many days of maturity must a non-deposit-taking NBFC repay a public deposit?",
+  "type": "power-the-entity-does-not-have",
+  "why_unanswerable": "A non-deposit-taking NBFC cannot accept public deposits, so it can have no matured deposit to repay. Repayment timelines on maturity, the consequences of failure to repay and the depositor's remedies are all conditions attached to the deposit-taking permission that this entity class does not hold. No repayment obligation exists for an NBFC-ND because the liability cannot arise.",
+  "expected_retrieval": "Master Direction on Acceptance of Public Deposits by NBFCs (repayment on maturity, overdue deposits, consequences of default); circulars on unclaimed and overdue deposits; the Reserve Bank Integrated Ombudsman Scheme covering NBFC deposit complaints; the scale-based regulation directions on the NBFC-ND-SI category."
+ },
+ {
+  "qid": "unans-absent-01",
+  "text": "For a commercial bank, what is the maximum penal charge, expressed as a percentage of the overdue instalment, that may be levied on a retail borrower who pays an EMI late?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Responsible Business Conduct Directions, 2025 require a Board-approved policy on penal charges and state in terms that no upper limit / cap for penal charges has been prescribed - the quantum is delegated entirely to the bank's Board. Verified in the corpus: the text reads '...upper limit / cap for penal charges has been prescribed, the bank, while formulating its Board approved policy on penal charges, should keep in mind...' and 'The quantum of penal charges shall be...' decided with Board approval. No percentage or absolute ceiling exists anywhere in the corpus.",
+  "expected_retrieval": "RBI (Commercial Banks - Responsible Business Conduct) Directions, 2025 penal-charges chapter, plus the near-identical Small Finance Banks / Local Area Banks / Regional Rural Banks / NBFC siblings, and the withdrawn 2023 'Fair Lending Practice - Penal Charges in Loan Accounts' circular. All are exactly on subject and all state only that the policy is Board-approved."
+ },
+ {
+  "qid": "unans-absent-02",
+  "text": "What penalty rate must a bank deduct from the applicable interest when a depositor prematurely withdraws a domestic term deposit before maturity?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Interest Rate on Deposits Directions, 2025 say only 'There shall be a comprehensive policy on penalties for premature withdrawal of term deposits' - the policy and its rate are the bank's. The corpus prescribes when a penalty may NOT be levied (deceased depositor claims), never how much it must be.",
+  "expected_retrieval": "RBI (Commercial Banks - Interest Rate on Deposits) Directions, 2025 and the Rural Co-operative Banks / Local Area Banks siblings, specifically the section headed 'Penalty on Premature Withdrawal of Domestic Term Deposit'; also the withdrawn Master Circular on Interest Rates on Rupee Deposits. A heading that matches the question word for word, containing no rate."
+ },
+ {
+  "qid": "unans-absent-03",
+  "text": "By how many basis points above the card rate may a commercial bank pay resident senior citizens on a domestic term deposit?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Interest Rate on Deposits Directions permit a bank 'at its discretion' to formulate term deposit schemes for resident senior citizens 'offering higher and fixed rates of interest as compared to normal rates' - no differential is quantified. The only quantified concession in the corpus is the one per cent additional interest for a bank's own staff, which is a different eligibility category and does not answer the question.",
+  "expected_retrieval": "The senior-citizen and own-staff clauses of the Interest Rate on Deposits Directions, 2025 for Commercial Banks, Rural Co-operative Banks and Local Area Banks. The staff one-per-cent figure sits in adjacent text and is the obvious fabrication for a system to grab."
+ },
+ {
+  "qid": "unans-absent-04",
+  "text": "What is the maximum annual fee a card issuer may charge a cardholder on a credit card?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Credit Cards: Issuance and Conduct Directions regulate only disclosure - 'The APR charged, and the annual fee shall be shown with equal prominence' - and require the fee in the MITC. No ceiling on the annual fee is prescribed; pricing is the issuer's commercial decision.",
+  "expected_retrieval": "RBI (Commercial Banks / Regional Rural Banks / Small Finance Banks / NBFCs - Credit Cards: Issuance and Conduct) Directions; the withdrawn Master Direction - Credit Card and Debit Card - Issuance and Conduct Directions, 2022; and withdrawn 'Display of Service Charges' circulars whose tables literally list 'Credit Card Membership fee / Annual Fee / Renewal Charges' as line items with no amounts."
+ },
+ {
+  "qid": "unans-absent-05",
+  "text": "What annual rent may a bank charge for a medium-sized safe deposit locker at an urban branch?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The corpus regulates everything around locker rent except the rent. It permits a term deposit as security for rent, allows break-open after three years of non-payment, caps the bank's liability at one hundred times the prevailing annual rent, and requires the rent to be in the disclosed schedule of charges - but the rent itself is set by the bank's Board-approved schedule of service charges.",
+  "expected_retrieval": "The locker chapter of the Responsible Business Conduct Directions, 2025 (Commercial Banks and the SFB/LAB/UCB siblings) and the withdrawn Safe Deposit Locker / Customer Service circulars. Retrieval lands on a passage dense with plausible numbers - 'three years', 'seven years', 'one hundred times the prevailing annual rent' - none of which is the rent."
+ },
+ {
+  "qid": "unans-absent-06",
+  "text": "How many days is the cooling-off period during which a borrower may exit a digital loan by repaying the principal and the proportionate APR without penalty?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Credit Facilities Directions, 2025 provide for an 'initial cooling-off period' and then state that 'The cooling off period shall be determined by the bank in terms of Board approved policy' - the number of days is delegated, not prescribed. Verified in the Local Area Banks, Regional Rural Banks and Rural Co-operative Banks Credit Facilities Directions.",
+  "expected_retrieval": "The 'Cooling-off period' section of the Credit Facilities Directions, 2025 for several entity classes, the digital-loan disclosure annexes in the Responsible Business Conduct Directions, and the withdrawn 2022 Guidelines on Digital Lending. A heading identical to the question, with the figure delegated away."
+ },
+ {
+  "qid": "unans-absent-07",
+  "text": "What is the maximum commission a bank may pay a business correspondent for sourcing a deposit account?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The corpus says banks 'may pay reasonable commission / fee to the Business Facilitators / Correspondents, the rate and quantum of which' is to be reviewed and fixed by the bank's Board - it prescribes the governance of BC remuneration and forbids charging the customer for it, but sets no rate, slab or ceiling.",
+  "expected_retrieval": "'Service Charges and Payment of Commission / Fees for engagement of Business Correspondent (BC) / Business Facilitators (BF)' in the RBI (Urban Co-operative Banks - Branch Authorisation) Directions, 2025, plus the withdrawn Master Circulars that carry the same BF/BC paragraph. Exactly the right section heading, no number in it."
+ },
+ {
+  "qid": "unans-absent-08",
+  "text": "What minimum balance must a commercial bank require a customer to maintain in an ordinary savings bank account?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "RBI regulates the disclosure of the requirement and the penal charge for non-maintenance (Board-approved policy, no negative balance, proportionate charge) and prohibits any minimum balance in a BSBDA - but the minimum balance amount for a regular savings account is fixed by each bank. The corpus contains the rule 'A bank shall at the time of opening the accounts, inform its customers... [about] minimum balance' and never a figure.",
+  "expected_retrieval": "Section 'A.1 Minimum balance in savings bank accounts' and 'A.1.1 Levy of Penal Charges on Non-Maintenance of Minimum Balance in Savings Bank Accounts' in the Responsible Business Conduct Directions, 2025. The retrieved heading matches the question exactly; the BSBDA zero-balance rule nearby is the likely fabricated answer."
+ },
+ {
+  "qid": "unans-absent-09",
+  "text": "How many CCTV cameras must a bank deploy to cover the entry and exit of a locker strong room?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Directions require a bank to 'keep the entry and exit of the strong room and the common areas of operation under CCTV camera and preserve its recording for a period of not less than' the specified period - an outcome requirement. The number of cameras, their placement and their specification are operational details the regulation does not reach.",
+  "expected_retrieval": "The locker security clause of the Responsible Business Conduct Directions, 2025 (SFB, LAB, Commercial Banks) and the CCTV clauses of the Master Direction on Incentives for Currency Distribution and Exchange and Penalties. The retrieved text is about branch CCTV and carries a prescribed preservation period, which is a plausible-looking but wrong answer to a question about camera count."
+ },
+ {
+  "qid": "unans-absent-10",
+  "text": "How many hours of AML/CFT training must a bank provide to each frontline employee every year?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The KYC Directions, 2025 paragraph 'Hiring of Employees and Employee training' requires an adequate screening mechanism, a Know Your Employee policy and an ongoing training programme so that staff are adequately trained - with no hours, no frequency and no per-employee quantum anywhere in the corpus.",
+  "expected_retrieval": "The 'Hiring of Employees and Employee training' paragraph of the KYC Directions, 2025 across Commercial Banks, NBFCs, Rural Co-operative Banks, Small Finance Banks, Urban Co-operative Banks, Payments Banks and ARCs - eight near-identical hits on precisely the right subject, none containing a number."
+ },
+ {
+  "qid": "unans-absent-11",
+  "text": "What is the minimum amount of cash a bank must load into an offsite ATM at each replenishment?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Master Direction on Incentives for Currency Distribution and Exchange and Penalties penalises the OUTCOME - it defines ATM cash-out, requires banks and WLAOs to 'strengthen their systems / mechanisms to monitor availability of cash in ATMs and ensure timely replenishment', and sets a penalty for non-replenishment - but never prescribes a loading amount or a minimum cash balance per machine.",
+  "expected_retrieval": "'Penalties for ATM Cash-out' and the replenishment-monitoring paragraphs of the Master Direction on Incentives for Currency Distribution and Exchange and Penalties, plus the Master Direction - Facility for Exchange of Notes and Coins. The cash-out penalty amount and the hours-of-outage threshold are right there and read like an answer."
+ },
+ {
+  "qid": "unans-absent-12",
+  "text": "For how many hours a day must a bank branch keep its cash counters open to the public?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Responsible Business Conduct Directions, 2025 expressly delegate this: 'The bank shall have the flexibility to fix the business hours (i.e., number of hours, as well as timings) and the weekly holidays'. The corpus regulates staff availability at counters and extended-hours arrangements, but no minimum number of open hours or opening time exists.",
+  "expected_retrieval": "The 'business hours' and 'Extended business hours for non-cash banking transactions' paragraphs of the Responsible Business Conduct Directions, 2025 for Commercial Banks, SFBs, LABs, UCBs and Rural Co-operative Banks. Directly on subject, and the delegation sentence is easy to misread as authority for a fabricated figure."
+ },
+ {
+  "qid": "unans-absent-13",
+  "text": "How many full-time internal audit staff must a commercial bank maintain in relation to the size of its branch network?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The corpus governs the internal audit function through independence, reporting lines, scope and coverage requirements, and requires audit remuneration to be 'commensurate with the scope and coverage of audit, skill sets required, number of staff required' - i.e. it treats staffing as an input the bank determines. No headcount, ratio or per-branch norm is prescribed.",
+  "expected_retrieval": "RBI (Commercial Banks - Concurrent Audit) Directions, 2026, the Compliance Function Directions, 2026, and the internal audit paragraphs of the Responsible Business Conduct and Fraud Risk Management Directions. On-topic documents about audit resourcing that never state a number."
+ },
+ {
+  "qid": "unans-absent-14",
+  "text": "How many years of information security experience must a bank's Chief Information Security Officer have before appointment?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Cybersecurity, Technology: Risk, Resilience and Assurance Framework Directions describe the CISO only as 'A senior level executive (preferably in the rank of a General Manager or an equivalent position)' with the requisite technical background. Seniority by rank is specified; years of experience are not, anywhere in the corpus.",
+  "expected_retrieval": "Section 'G. Chief Information Security Officer' of the Cybersecurity, Technology: Risk, Resilience and Assurance Framework Directions, 2026 for Small Finance Banks, Payments Banks and NBFCs. The strong trap is the Compliance Function Directions, which DO specify minimum years of experience for the Chief Compliance Officer - a different post, retrieved by the same query shape."
+ },
+ {
+  "qid": "unans-absent-15",
+  "text": "What is the minimum fixed tenure for which a private sector bank must appoint its Chief Risk Officer?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Governance Directions, 2025 require that 'The CRO shall be appointed for a fixed tenure with the approval of the Board' and impose safeguards on premature removal and reporting of any change in incumbency to RBI - but they never state a minimum number of years. The length is the Board's to fix.",
+  "expected_retrieval": "'E. Appointment of Chief Risk Officer' (paragraphs 29-33, applied to private banks by paragraph 59) of the RBI (Commercial Banks - Governance) Directions, 2025, and the CRO paragraph of the UCB Governance Directions. The trap is adjacent: the Compliance Function Directions, 2026 state that the Chief Compliance Officer 'shall be appointed for a fixed minimum tenure of not less than three years' - the right-sounding figure for the wrong officer."
+ },
+ {
+  "qid": "unans-absent-16",
+  "text": "Within how many days must a bank credit the proceeds of an outstation cheque to the payee's account?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The corpus requires the bank to disclose collection timeframes and to pay interest for delay 'as per the cheque collection policy', and the model disclosure form leaves the immediate-credit amount as a blank to be filled by the bank ('immediate credit of outstation cheque up to Rs ______ (Please refer cheque collection policy)'). The timeframe lives in the bank's Board-approved Cheque Collection Policy, not in any RBI document.",
+  "expected_retrieval": "The cheque collection paragraphs and the model 'Code of Bank's Commitment' / service-charge annexes of the Responsible Business Conduct Directions, 2025 for Commercial Banks, UCBs, Rural Co-operative Banks and Payments Banks; plus withdrawn Customer Service master circulars that discuss collection of local and outstation cheques."
+ },
+ {
+  "qid": "unans-absent-17",
+  "text": "How many note sorting machines must a currency chest branch install?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Master Direction on Counterfeit Notes, 2025 requires currency chest branches and identified back offices to be equipped with note sorting / authentication machines 'of appropriate capacity... adequate to process all notes received', and the penalty schedule punishes non-utilisation of installed NSMs. Adequacy is assessed case by case; no minimum count or count-per-volume norm is prescribed.",
+  "expected_retrieval": "Master Direction on Counterfeit Notes, 2025 - Detection, Reporting and Monitoring (NSM equipping and the currency-chest review questionnaire asking how many NSMs are installed), and the 'Non-utilisation of Note Sorting Machines' entry in the Master Direction on Incentives for Currency Distribution and Exchange and Penalties. A questionnaire that asks the very question the corpus does not answer."
+ },
+ {
+  "qid": "unans-absent-18",
+  "text": "What is the maximum rate of dividend an urban co-operative bank may declare to its shareholding members?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The RBI (Urban Co-operative Banks - Prudential Norms on Declaration of Dividends) Directions, 2025 set only ELIGIBILITY conditions - regulatory capital compliance, NNPA below five per cent, no CRR/SLR default during the year, full provisioning, and payment out of that year's net profit - plus a Regional Office route where NNPA is between five and ten per cent. The Directions contain no ceiling on the dividend rate or payout ratio. Any cap on the rate a co-operative society may pay its members comes from the state Co-operative Societies Act or the Multi-State Co-operative Societies Act, which are outside RBI's remit and absent from this corpus. I read the full document to confirm this.",
+  "expected_retrieval": "RBI (Urban Co-operative Banks - Prudential Norms on Declaration of Dividends) Directions, 2025 and its Rural Co-operative Banks counterpart - the exactly-right document, whose 'five per cent' and 'ten per cent' NNPA thresholds are percentage figures sitting one sentence from where the answer would be."
+ },
+ {
+  "qid": "unans-absent-19",
+  "text": "What is the maximum merchant discount rate an acquiring bank may charge a merchant on a credit card transaction?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "RBI has never capped credit card MDR. The only live instruction in the corpus is the Payment Aggregator Master Direction's circular requirement that 'the extant instructions with regard to Merchant Discount Rate (MDR) are followed', which states no rate. The only MDR percentages present belong to a WITHDRAWN circular on debit card MDR - a different instrument - and debit/RuPay-UPI MDR is in any case a Government of India matter, not RBI's.",
+  "expected_retrieval": "Master Direction on Regulation of Payment Aggregator (PA), and the withdrawn 'Merchant Discount Rates (MDR) structure for debit card transactions' notification, which contains real MDR percentages and explicitly reasons that debit and credit cards should not carry a similar MDR. A system that ignores both withdrawal and instrument type will answer with the debit-card number."
+ },
+ {
+  "qid": "unans-absent-20",
+  "text": "What is the maximum annual fixed pay a private sector bank may pay its Managing Director and CEO?",
+  "type": "plausible-but-absent-specific",
+  "why_unanswerable": "The Governance Directions, 2025 require only that 'the fixed portion of compensation is reasonable, taking into account all relevant factors including adherence to statutory requirements and industry practice', with the whole package approved by RBI case by case under Section 35B of the Banking Regulation Act. No absolute ceiling on MD&CEO fixed pay exists in the corpus - I read the remuneration chapter in full to confirm.",
+  "expected_retrieval": "The 'Remuneration of NEDs, WTDs, MD&CEO / CEO, Material Risk Takers, and Control Function staff' chapter of the RBI (Commercial Banks - Governance) Directions, 2025 and the 'Remuneration / Compensation of the Whole Time Director / Chief Executive Officer - PART-A: Fixed Pay' approval form annexed to the SFB, LAB and Payments Banks Governance Directions. Two hard numbers sit in that chapter and both are wrong answers: the Rs 30 lakh per annum ceiling on a non-executive director's fixed remuneration, and the 300 per cent of fixed pay ceiling on variable pay."
+ },
+ {
+  "qid": "unans-time-01",
+  "text": "Our small finance bank is drawing up its transition plan for expected credit loss provisioning. From April 1, 2027, what fraction of the day-one transitional adjustment may we add back to CET1 capital in each year of the transition, and what regulatory PD and LGD floors apply to our Stage 1 retail exposures?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The only ECL instrument in the corpus is the RBI (Commercial Banks - Asset Classification, Provisioning and Income Recognition) Directions, 2026 (doc_date 2026-04-27, effective April 1, 2027). Its para 4 states it applies to 'Commercial Banks' and expressly defines that term as banking companies 'other than Small Finance Banks, Payment Banks and Local Area Banks'. No SFB ECL/ACPIR direction exists in the corpus (a title search for 'Asset Classification, Provisioning and Income Recognition' returns exactly one document, the Commercial Banks one), and no document announces an ECL commencement date for SFBs. SFBs remain governed by the SFB IRACP Directions, 2025, which contain no transitional add-back and no ECL floors.",
+  "expected_retrieval": "The Commercial Banks ACPIR Directions, 2026 (which contain the exact transitional-adjustment fraction table, the April 1, 2027 transition date and the prudential ECL floors), the SFB Income Recognition, Asset Classification and Provisioning Directions, 2025, and the SFB Prudential Norms on Capital Adequacy Directions, 2025. All three read as direct answers; the first supplies numbers that belong to a different entity class."
+ },
+ {
+  "qid": "unans-time-02",
+  "text": "For our FY2027-28 ICAAP we need the cut-over date: from which date must a commercial bank stop computing minimum operational risk capital under the Basic Indicator Approach and begin using the Basel III Standardised Approach based on the Business Indicator and Internal Loss Multiplier?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The Basel III SA for operational risk sits in the RBI (Commercial Banks - Forthcoming Instructions) Directions, 2025 (doc_key md:43da74f4772133e4), whose para 2 reads: 'The effective date of implementation of these Directions shall be communicated separately.' Chapter IV para 22 says BIA 'shall be replaced ... with coming into effect of these Directions' without naming a date. No later document in the corpus (latest doc_date 2026-07-31) supplies that date; the Capital Adequacy Directions, 2025 similarly state for IRRBB that 'the date for implementation will be communicated in due course'.",
+  "expected_retrieval": "The Forthcoming Instructions Directions, 2025 (Chapter IV, Basel III SA for operational risk) and the Commercial Banks Prudential Norms on Capital Adequacy Directions, 2025 (BIA). A retriever will also surface the Capital Charge for Credit Risk - Standardised Approach Directions, 2026, which carries a prominent 'Effective from April 1, 2027' - the wrong date, and the most likely fabrication."
+ },
+ {
+  "qid": "unans-time-03",
+  "text": "Once the 2027 Census population figures are notified, from which date must we re-classify centres into Tier 1 to Tier 6 for banking outlet purposes, and is any grandfathering available for outlets that move from an unbanked rural centre to a higher tier?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The RBI (Commercial Banks - Branch Authorisation) Directions, 2025 fix the tier structure to a single vintage of data: 'The policy covers the opening of Banking Outlets in all Tiers as defined on the basis of population as per Census 2011', with Table 1 headed 'Population (as per 2011 Census)'. Every other branch-authorisation instrument in the corpus is likewise keyed to Census 2011 or Census 2001 (e.g. the 2016 'Master Circular on Branch Authorisation - Census data 2011'). Nothing in the corpus states when a later census takes effect for tier classification, or how outlets that change tier are treated.",
+  "expected_retrieval": "Branch Authorisation Directions, 2025 for each entity class (Table 1 tier definitions), the 2016 and 2015 Master Circulars on Branch Authorisation / Branch Licensing keyed to 'Census data 2011', and RRB branch licensing circulars. These look authoritative on tiering and invite an answer stitched from the 2011 transition."
+ },
+ {
+  "qid": "unans-time-04",
+  "text": "Our green deposit financing framework currently allocates proceeds using the interim list of eligible activities. Once the official Indian green taxonomy is notified, by when must proceeds already allocated be re-mapped to the taxonomy, and how do we treat projects financed under the interim list that fall outside it?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The RBI (Commercial Banks - Climate Finance and Management of Climate Change Risks) Directions, 2025 para 14 states that allocation 'shall be based on the official Indian green taxonomy' and prescribes the activity list only as an interim measure 'pending finalization of the taxonomy'. The identical wording appears in the SFB and NBFC climate directions and the Framework for acceptance of Green Deposits. The corpus contains no taxonomy, no notification date, and no re-mapping, grandfathering or transition rule for proceeds already allocated.",
+  "expected_retrieval": "The Climate Finance and Management of Climate Change Risks Directions, 2025 (Commercial Banks, SFB and NBFC versions) and the Framework for acceptance of Green Deposits. All contain the interim eligible-activity list and the taxonomy sentence, so retrieval looks like a direct hit while containing no transition rule."
+ },
+ {
+  "qid": "unans-time-05",
+  "text": "For FY2027-28 reporting, what climate-related financial disclosures across governance, strategy, risk management, and metrics and targets must a commercial bank publish, what climate scenario analysis results must accompany them, and is third-party assurance mandatory?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The Climate Finance and Management of Climate Change Risks Directions, 2025 contain only Chapter II (Role of the Board) and Chapter III (green deposits, including green-deposit reporting and third-party verification of the financing framework). The phrase 'climate-related' occurs in the corpus only inside the definition of green finance. No corpus document prescribes entity-wide climate-related financial disclosures, a phase-in glide path, scenario-analysis requirements or assurance obligations for any reporting year.",
+  "expected_retrieval": "Climate Finance Directions, 2025; Financial Statements: Presentation and Disclosures Directions, 2025 (which set out an extensive disclosure architecture for other subjects); the Guidance Note on Operational Risk Management and Operational Resilience (which discusses scenario analysis). The green-deposit assurance and impact-assessment paragraphs are the likeliest source of a fabricated answer."
+ },
+ {
+  "qid": "unans-time-06",
+  "text": "A resident-controlled fintech promoter group intends to apply for a payments bank licence under the on-tap route. What minimum paid-up voting equity capital and promoter contribution apply, what is the promoter lock-in, and is the application window currently open?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The corpus contains licensing instruments only for universal banks, small finance banks and urban co-operative banks: RBI (Universal Banks - Licensing) Guidelines, 2025; RBI (Small Finance Banks - Licensing) Guidelines, 2025; RBI (Urban Co-operative Banks - Licensing, Scheduling and Regulatory Classification) Guidelines, 2025. There is no payments bank licensing guideline in the corpus and no on-tap window for payments banks; a search of every Payments Banks document for entry-point capital ('minimum paid-up equity', 'entry capital', '100 crore') returns only an unrelated risk-weight paragraph.",
+  "expected_retrieval": "Universal Banks Licensing Guidelines, 2025 and SFB Licensing Guidelines, 2025 - the latter explicitly discusses payments banks (existing PBs with five years of operations are eligible to convert into SFBs; a PB promoter setting up an SFB must use an NOFHC structure), which makes it look like the governing document. Also the Payments Banks Acquisition and Holding of Shares or Voting Rights Directions, 2025."
+ },
+ {
+  "qid": "unans-time-07",
+  "text": "We are evaluating whether an infrastructure-focused NBFC should migrate to a wholesale and long-term finance bank licence. What minimum net worth applies to that category, and what floor is placed on the size of deposits such a bank may accept from a single depositor?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "No such licence category exists in the corpus. Searches for 'Wholesale and Long-Term Finance' and 'WLTF' return zero documents out of 3,645. The bank categories actually regulated across the corpus are universal/commercial banks, small finance banks, payments banks, local area banks, regional rural banks and urban/rural co-operative banks; the corpus's own document categories confirm this. The concept was an RBI discussion paper never converted into a licensing framework, and nothing in the corpus prescribes net worth or deposit-size floors for it.",
+  "expected_retrieval": "Universal Banks Licensing Guidelines, 2025 (capital and promoter norms), All India Financial Institutions directions (long-term finance, net worth and resource-raising norms), and NBFC Registration/Scale Based Regulation material on migration and net owned fund thresholds - a plausible-looking blend from which a capital figure could easily be fabricated."
+ },
+ {
+  "qid": "unans-time-08",
+  "text": "The 2026 KCC Directions permit disbursal of the Kisan Credit Card limit through CBDC. What holding limit applies to a farmer's e-rupee wallet, from which date is CBDC-based disbursal mandatory rather than optional, and what CBDC-specific reporting must the disbursing bank make to the Reserve Bank?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "'Central Bank Digital Currency' occurs in only four corpus documents - the Commercial Banks, SFB, RRB and Rural Co-operative Banks KCC Directions of June 19, 2026 - and in each it appears solely as one item in a list of permitted digital delivery channels alongside NEFT and RTGS, used with the account holder's consent. The corpus contains no CBDC direction, no wallet or holding limit, no mandate date and no CBDC reporting requirement; 'e-rupee' returns zero body matches.",
+  "expected_retrieval": "The four KCC Directions, 2026 (which genuinely mention CBDC), plus the Digital Banking Channels Authorisation Directions, 2025 and the Digital Payment Security Controls Directions, 2026. Retrieval will look strong because the CBDC sentence exists verbatim, but it carries none of the requested detail."
+ },
+ {
+  "qid": "unans-time-09",
+  "text": "Our bank is deploying generative AI models in credit underwriting and in collections contact strategy. What board-approved AI policy, independent model validation and customer-disclosure obligations does the Reserve Bank impose, and what is the compliance deadline for existing deployments?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "Artificial intelligence appears in the corpus only in the KYC Directions of each entity class, in a single permissive sentence about video-based customer identification: the regulated entity 'may use appropriate artificial intelligence (AI) technology to ensure that the V-CIP is robust'. No corpus document establishes an AI or model-governance framework, imposes a board-approved AI policy, prescribes AI model validation, or sets any deadline. Searches for a named AI framework return zero documents.",
+  "expected_retrieval": "KYC Directions, 2025 (the V-CIP AI sentence); Managing Risks in Outsourcing Directions, 2025; the Cybersecurity, Technology: Risk, Resilience and Assurance Framework Directions, 2026; and the ECL model-validation and model-monitoring paragraphs of the Commercial Banks ACPIR Directions, 2026 - the last of which describes model management committees and validation in detail and is a strong candidate for a fabricated AI answer."
+ },
+ {
+  "qid": "unans-time-10",
+  "text": "We are finalising branch-level priority sector targets for FY 2027-28. Which districts attract the 125 per cent incentive weight for incremental priority sector credit in that year, and which attract the reduced weight for districts with comparatively higher credit flow?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The Master Directions - RBI (Priority Sector Lending - Targets and Classification) Directions, 2025 (updated as on January 19, 2026) state that the incentive and dis-incentive district lists 'given in Annexes IA and IB ... will be valid up to FY 2026-27, subject to a review thereafter'. The corpus contains no post-review district list, no FY 2027-28 annex, and no successor PSL direction (the latest PSL document in the corpus is the January 19, 2026 amendment).",
+  "expected_retrieval": "The PSL Targets and Classification Directions, 2025 with Annexes IA and IB in full - a large, confidently-formatted district list that reads as the answer even though the document itself limits its validity to FY 2026-27. Also older FIDD priority sector circulars and the superseded 2020 PSL Master Directions."
+ },
+ {
+  "qid": "unans-time-11",
+  "text": "Private banking clients are asking about the enhanced Liberalised Remittance Scheme limit applicable from FY 2027-28. What is the revised annual per-individual limit, and does the enhancement extend to capital account transactions such as acquisition of overseas listed equity?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The only LRS instrument in the corpus is the Master Direction - Liberalised Remittance Scheme (LRS), updated as on September 06, 2024, which sets the limit at USD 2,50,000 per financial year and tabulates every historical revision from February 4, 2004 through May 26, 2015 as the last change. No corpus document announces, schedules or describes any enhancement of the LRS limit for FY 2027-28 or any other future year, and no capital account convertibility roadmap exists in the corpus (the phrase appears once, in passing).",
+  "expected_retrieval": "The LRS Master Direction, plus FEMA current-account and overseas-investment directions. The document's own table of past step-ups (25,000 to 50,000 to 1,00,000 to 2,00,000 to 2,50,000) is an obvious invitation to extrapolate a next figure, and the USD 2,50,000 limit will be quoted with high confidence."
+ },
+ {
+  "qid": "unans-time-12",
+  "text": "What data is a bank required to contribute to the Digital Payments Intelligence Platform, at what frequency must it be submitted, and from which date is participation mandatory for scheduled commercial banks?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The corpus contains no reference to a Digital Payments Intelligence Platform or DPIP - both search terms return zero of 3,645 documents. The only payments-fraud data-sharing obligation present in the corpus is reporting to the Central Payments Fraud Information Registry (CPFIR), which appears in six documents and is a different, already-operating mechanism with its own scope. No corpus document creates a network-level intelligence platform, defines contribution fields, or sets a participation date.",
+  "expected_retrieval": "Fraud Risk Management Directions, 2026 for each entity class (CPFIR reporting timelines and fields), the Digital Payment Security Controls Directions, 2026, and the Master Directions on Authorisation to operate a Payment System (June 15, 2026). CPFIR obligations are close enough in substance to be presented as the answer."
+ },
+ {
+  "qid": "unans-time-13",
+  "text": "From which date must loan transfer transactions be reported to the trade reporting platform notified by the Reserve Bank, what is the reporting format, and what is the timeline for reporting each individual transfer?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The RBI (Transfer and Distribution of Credit Risk) Directions, 2025 - present in the corpus for Commercial Banks, SFBs, LABs, RRBs, UCBs, Rural Co-operative Banks, AIFIs and NBFCs - state that entities 'shall report each loan transfer transaction ... to a trade reporting platform as notified by the Reserve Bank. The detailed instructions in this regard will be issued separately. In anticipation of the same, [the entity] shall maintain a database of loan transfer transactions with adequate MIS'. Nine documents carry this wording; none names the platform, the format, the reporting timeline or a start date, and no later corpus document (through 2026-07-31) supplies them.",
+  "expected_retrieval": "Transfer and Distribution of Credit Risk Directions, 2025 across every entity class - the exact paragraph that raises the obligation - plus the Securitisation Directions, 2025, whose quarterly reporting paragraph is similarly deferred ('The format for the same shall be communicated separately'). Both look like the governing text while withholding the requested particulars; CRILC reporting requirements elsewhere in the corpus are a likely fabrication source."
+ },
+ {
+  "qid": "unans-time-14",
+  "text": "A borrower with aggregate exposure of about ₹800 crore to the banking system has defaulted with us. From what reference date does the 30-day review period run for that exposure band, and by when must the inter-creditor agreement be signed?",
+  "type": "future_or_counterfactual",
+  "why_unanswerable": "The RBI (Commercial Banks - Resolution of Stressed Assets) Directions, 2025, para 42, tabulates reference dates as: ₹2000 crore and above - June 07, 2019; ₹1500 crore and above but less than ₹2000 crore - January 1, 2020; and 'Less than ₹1500 crore - To be announced in due course'. No such announcement exists anywhere in the corpus, and the same unfilled table appears in the SFB, UCB, AIFI and NBFC versions of these Directions. Para 43 addresses only the non-application of Chapter IV (additional provisioning) to sub-₹1,500 crore accounts; it supplies no reference date and no ICA timeline for that band.",
+  "expected_retrieval": "Resolution of Stressed Assets Directions, 2025 for every entity class, containing the reference-date table, the 30-day review period and the 180-day implementation and ICA provisions, plus the 2019 Prudential Framework for Resolution of Stressed Assets. Retrieval is a direct hit on the right paragraph, and the two populated rows of the table are a strong lure toward answering June 07, 2019 or January 1, 2020."
+ }
+]

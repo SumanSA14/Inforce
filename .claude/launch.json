@@ -1,0 +1,11 @@
+{
+  "version": "0.0.1",
+  "configurations": [
+    {
+      "name": "inforce",
+      "runtimeExecutable": "python",
+      "runtimeArgs": ["-m", "inforce.cli", "serve", "--port", "8000"],
+      "port": 8000
+    }
+  ]
+}

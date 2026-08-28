@@ -1,0 +1,1114 @@
+[
+ {
+  "qid": "unans-gst-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What GST rate applies to fees charged on a savings account?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-ins-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How much life insurance cover is an agent required to recommend?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-lodr-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Which auditor certifies a listed company's quarterly results under SEBI LODR?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-mf-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What expense ratio must a mutual fund scheme disclose to unit holders?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-nps-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the minimum annual contribution to a National Pension System tier-2 account?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-stamp-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What stamp duty applies to transferring shares in a private company?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "We have sanctioned loans against shares to clients who were allotted shares as anchor investors in a recent public issue. For how long are anchor investor shares locked in after allotment before those clients can sell them?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-02",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our subsidiary offers portfolio management services. What is the minimum amount a single client must bring in to open a discretionary PMS account?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-03",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our bank has been approached to act as sponsor of a Category II Alternative Investment Fund. What minimum continuing interest must the sponsor keep invested in the scheme?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-04",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many days before the board meeting that approves our quarterly results must the trading window be closed for designated employees who deal in the bank's own shares?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-05",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "We hold units of a REIT within the permitted investment limit. What proportion of its net distributable cash flow is that REIT obliged to distribute to unit holders each year?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-06",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our bank acts as a depository participant. Within how many days of receiving a client's dematerialisation request form must we confirm the demat to the depository?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-07",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Where our bank as a self-certified syndicate bank fails to unblock a public issue applicant's funds on time after allotment, what compensation is payable to the applicant for each day of delay?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-08",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How quickly after taking a rating action on one of our borrowers must the credit rating agency publish its press release?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-09",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A borrower of ours has been tagged 'issuer not cooperating' by its rating agency. After how long must the agency downgrade that rating to non-investment grade?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-10",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum position a single client may hold in a non-agricultural commodity futures contract on a recognised domestic exchange?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-11",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our bank holds a joint venture stake in a life insurance company. What minimum solvency ratio is that insurer required to maintain?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-12",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A customer who bought a life policy through our branch now wants to cancel it. How long is the free-look period during which she can return the policy and get a refund of premium?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-13",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "As a corporate agent distributing insurance, how many life insurers may our bank be tied up with at the same time?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-14",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A borrower's credit-linked insurance claim has been pending with the insurer for over two months. Within what period must the insurer settle it, and at what rate must it pay interest for the delay?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-15",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A customer retiring at 60 wants to take her entire NPS corpus in cash. What minimum share of the accumulated corpus has to be used to purchase an annuity?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-16",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum charge our bank may recover from a subscriber on each NPS contribution in its capacity as a point of presence?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-17",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "At what level of annual interest paid on a customer's term deposits must the branch begin deducting tax at source, and at what rate?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-18",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Above what level of aggregate annual cash withdrawal from an account must we deduct tax at source, and at what rate?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-19",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum deduction a customer can claim in a financial year for a five-year tax-saving fixed deposit placed with our bank?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-20",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Within how many days of creating a hypothecation charge over a corporate borrower's assets must the charge be registered with the Registrar of Companies?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-21",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What percentage of average net profits is our bank required to spend on corporate social responsibility, and over how many preceding years is that average worked out?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-scope-22",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What stamp duty is payable on the deed of mortgage executed by a borrower to secure a housing loan from our bank?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What priority sector lending target must a payments bank meet as a share of its adjusted net bank credit?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-02",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What risk weight does a payments bank apply to its unsecured retail loans when computing capital adequacy?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-03",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How soon must a payments bank close a customer's credit card account after a closure request before the daily penalty starts?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-04",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the ceiling on a payments bank's exposure to a single borrower, as a share of its tier 1 capital?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-05",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What premature-withdrawal penalty may a payments bank levy on a five crore rupee term deposit from one customer?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-06",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "In a co-lending arrangement with an NBFC, what share of each loan must a payments bank keep on its own books?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-07",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What approval does a small finance bank need to set up a subsidiary for equipment leasing and hire purchase?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-08",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How does a small finance bank consolidate its NBFC subsidiary's exposures for group capital adequacy?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-09",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "When must a credit information company classify a loan to a member institution as non-performing?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-10",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the longest tenor of a fixed deposit a credit information company may accept from the public?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-11",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What must a credit information company do before engaging a recovery agent to collect from a borrower?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-12",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many times its net owned funds may an asset reconstruction company hold in public deposits?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-13",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What disclosures must an asset reconstruction company make in an advertisement inviting public deposits?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-14",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What approval does a local area bank need to open a branch outside its licensed districts?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-15",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What are the eligibility conditions for a local area bank to open an IFSC Banking Unit at GIFT City?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-16",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What minimum chest balance must a local area bank maintain at a currency chest outside its area of operation?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-17",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What share of its public deposits must a non-deposit-taking NBFC hold in unencumbered approved securities?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-19",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How often must a non-deposit-taking NBFC file its return on public deposits?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-power-20",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Within how many days of maturity must a non-deposit-taking NBFC repay a public deposit?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-02",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What penalty rate must a bank deduct from the applicable interest when a depositor prematurely withdraws a domestic term deposit before maturity?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-03",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "By how many basis points above the card rate may a commercial bank pay resident senior citizens on a domestic term deposit?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-04",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum annual fee a card issuer may charge a cardholder on a credit card?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-05",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What annual rent may a bank charge for a medium-sized safe deposit locker at an urban branch?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-06",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many days is the cooling-off period during which a borrower may exit a digital loan by repaying the principal and the proportionate APR without penalty?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-07",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum commission a bank may pay a business correspondent for sourcing a deposit account?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-08",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What minimum balance must a commercial bank require a customer to maintain in an ordinary savings bank account?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-09",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many CCTV cameras must a bank deploy to cover the entry and exit of a locker strong room?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-10",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many hours of AML/CFT training must a bank provide to each frontline employee every year?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-11",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the minimum amount of cash a bank must load into an offsite ATM at each replenishment?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-13",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many full-time internal audit staff must a commercial bank maintain in relation to the size of its branch network?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-14",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many years of information security experience must a bank's Chief Information Security Officer have before appointment?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-15",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the minimum fixed tenure for which a private sector bank must appoint its Chief Risk Officer?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-16",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Within how many days must a bank credit the proceeds of an outstation cheque to the payee's account?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-17",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many note sorting machines must a currency chest branch install?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-18",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum rate of dividend an urban co-operative bank may declare to its shareholding members?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-19",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum merchant discount rate an acquiring bank may charge a merchant on a credit card transaction?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-absent-20",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum annual fixed pay a private sector bank may pay its Managing Director and CEO?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our small finance bank is drawing up its transition plan for expected credit loss provisioning. From April 1, 2027, what fraction of the day-one transitional adjustment may we add back to CET1 capital in each year of the transition, and what regulatory PD and LGD floors apply to our Stage 1 retail exposures?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-02",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "For our FY2027-28 ICAAP we need the cut-over date: from which date must a commercial bank stop computing minimum operational risk capital under the Basic Indicator Approach and begin using the Basel III Standardised Approach based on the Business Indicator and Internal Loss Multiplier?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-03",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Once the 2027 Census population figures are notified, from which date must we re-classify centres into Tier 1 to Tier 6 for banking outlet purposes, and is any grandfathering available for outlets that move from an unbanked rural centre to a higher tier?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-04",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our green deposit financing framework currently allocates proceeds using the interim list of eligible activities. Once the official Indian green taxonomy is notified, by when must proceeds already allocated be re-mapped to the taxonomy, and how do we treat projects financed under the interim list that fall outside it?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-05",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "For FY2027-28 reporting, what climate-related financial disclosures across governance, strategy, risk management, and metrics and targets must a commercial bank publish, what climate scenario analysis results must accompany them, and is third-party assurance mandatory?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-06",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A resident-controlled fintech promoter group intends to apply for a payments bank licence under the on-tap route. What minimum paid-up voting equity capital and promoter contribution apply, what is the promoter lock-in, and is the application window currently open?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-07",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "We are evaluating whether an infrastructure-focused NBFC should migrate to a wholesale and long-term finance bank licence. What minimum net worth applies to that category, and what floor is placed on the size of deposits such a bank may accept from a single depositor?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-08",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "The 2026 KCC Directions permit disbursal of the Kisan Credit Card limit through CBDC. What holding limit applies to a farmer's e-rupee wallet, from which date is CBDC-based disbursal mandatory rather than optional, and what CBDC-specific reporting must the disbursing bank make to the Reserve Bank?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-09",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our bank is deploying generative AI models in credit underwriting and in collections contact strategy. What board-approved AI policy, independent model validation and customer-disclosure obligations does the Reserve Bank impose, and what is the compliance deadline for existing deployments?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-10",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "We are finalising branch-level priority sector targets for FY 2027-28. Which districts attract the 125 per cent incentive weight for incremental priority sector credit in that year, and which attract the reduced weight for districts with comparatively higher credit flow?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-11",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Private banking clients are asking about the enhanced Liberalised Remittance Scheme limit applicable from FY 2027-28. What is the revised annual per-individual limit, and does the enhancement extend to capital account transactions such as acquisition of overseas listed equity?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-12",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What data is a bank required to contribute to the Digital Payments Intelligence Platform, at what frequency must it be submitted, and from which date is participation mandatory for scheduled commercial banks?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-13",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "From which date must loan transfer transactions be reported to the trade reporting platform notified by the Reserve Bank, what is the reporting format, and what is the timeline for reporting each individual transfer?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "unans-time-14",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A borrower with aggregate exposure of about ₹800 crore to the banking system has defaulted with us. From what reference date does the 30-day review period run for that exposure band, and by when must the inter-creditor agreement be signed?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-164",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What is the usual tenure of the officer in charge of audit at a local area bank?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-246",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How often must a regional rural bank's senior leadership be briefed on the bank's securities dealings?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-65",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Beyond what delay must an agency bank get the concerned Ministry's clearance before sending a Central Government item for settlement?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "ppi-01",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Within what period must a prepaid payment instrument be used before further credit is barred?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-29",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "In sizing a Kisan Credit Card limit at a rural co-operative bank, what percentage is added on top for after-harvest costs and family living needs?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-174",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How much does the RBI pay a bank branch for every bag of coins it hands out to the public?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-4",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "If no law fixes how long an OTC derivative market-maker must keep its books, what minimum time must it hold them once a product ends?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-359",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "By when must card issuers be ready to verify overseas online purchases where the shop abroad seeks confirmation?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-126",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Up to what balance must a payments bank apply a single savings rate to every account?",
+  "text": "According to [3], a uniform interest rate shall be set on balance up to ₹1 lakh, irrespective of the amount in the account within this limit."
+ },
+ {
+  "qid": "gen-287",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Against pledged government paper, how big a loan may a director of an all India financial institution take relative to its resale value?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-108",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How quickly should a government-funded debt relief scheme be wrapped up and the money paid to a local area bank?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-103",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Up to what amount must a small finance bank always let a customer close a fixed deposit early?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-142",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How often must a rural co-operative bank take stock of how its debit cards are being used?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "psl-02",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What share of lending must go to weaker sections under priority sector norms?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-243",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much of its core capital can a housing finance company put into one affiliated real estate firm?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "ucb-networth-01",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "By when must a shortfall in an urban co-operative bank's net worth be made good?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-324",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How often does an urban co-operative bank have to tell the RBI how far it has got with getting customers to name someone to receive their deposits?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-121",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What is the highest commission an NBFC may hand a middleman for canvassing fixed deposits?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-161",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How large must the Investment Fluctuation Reserve of an urban co-operative bank be before it stops moving trading profits into it?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-338",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How many reimbursement claims may a rural co-operative bank lodge with the depositor education fund in a single month?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-306",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How many days ahead must a local area bank tell debit card users about a revision in conditions?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-117",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Under the money transfer service scheme, how soon after a quarter closes must an Indian agent file particulars of new sub agents with the regional office?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-16",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the lowest balance a rural co-operative bank may let a minor's account fall to?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "sec-nbfc-01",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What minimum retention requirement applies to an NBFC securitising loans with maturity over 24 months?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-370",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How frequently must an all India financial institution's in-house audit team examine lending to connected persons?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "car-pb-02",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much CET 1 capital must a payments bank hold against its risk weighted assets?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-104",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Below what remittance value does a small finance bank have to identify a walk-in customer who is splitting transfers to dodge monitoring?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-71",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How many days past due can an account be at a rural co-operative bank on the date a natural disaster strikes and still qualify for relief measures?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-11",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What ceiling applies to guarantees a local area bank gives without security, measured against its total assets?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-297",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "For a regional rural bank, how many days of an overdraft staying above its approved ceiling makes the account irregular?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-198",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How quickly must an asset reconstruction company send RBI a return once the accounts have been certified by its auditor?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "arc-notice-01",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much notice must an ARC give before taking control of a borrower's business?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-319",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How soon after getting the money must a person who moved back to India send home the proceeds of a foreign currency insurance cover?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-182",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Is there any fee for a user to set up a standing auto-debit instruction with a merchant?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-78",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How long in total can one person serve as internal ombudsman at a small finance bank, counting any renewals?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-203",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What share of a securitisation deal may the all India financial institution that originated it keep on its own books?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-157",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much net worth must a regional rural bank have before deploying its own card swipe machines at shops?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-165",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much notice must the convenor give before a credit information sub-group meets, under the rules for local area banks?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-62",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How long may a payments bank keep the same outside firm doing its ongoing transaction audits?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "ppi-02",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much notice does a wallet provider owe a customer before the wallet lapses?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-97",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How long does a regulator have to clear an overseas investment proposal in an IFSC before approval is presumed?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-216",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much commission does a broker earn on savings bond applications they bring in?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "aifi-cooling-01",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How long must an all India financial institution wait before lending again to a borrower whose loan it sold?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-347",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Besides the chairperson, how many senior staff sit on the panel a commercial bank sets up to decide if a borrower defaulted deliberately?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-199",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Which unique codes does an electronic trading platform operator have to use so that each of its members can be told apart?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-318",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Under which schedule must a bank report the fee income it earns from lending government bonds?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-85",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How frequently does the audit committee of an urban co-operative bank have to put up a note to its board on compliance with central bank instructions?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-56",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much money must an entity have behind it before RBI will let it run a receivables exchange?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-264",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How many chequebook pages must a payments bank give a customer free of cost annually?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-159",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What minimum size of own funds lets a commercial bank offer credit cards independently?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-140",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Above what amount must an all India financial institution take a fraud case to the police?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-369",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "By what date must a non-bank prepaid wallet firm file its complaints data with the regulator after each quarter ends?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "dea-ucb-01",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What interest rate applies to unclaimed deposits an urban co-operative bank transferred to the Fund from May 2021?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-12",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "When an all India financial institution buys a loan pool and can only check part of it borrower by borrower, what share of the risk must the seller keep?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-26",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How far below its required liquidity holding can a local area bank fall before it must request a formal waiver from the Reserve Bank?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-350",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How often must a local area bank's board revisit the policy it has adopted for dealing with fraud?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-240",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What multiplier applies to the compounding sum when equity is issued to a foreign investor beyond the 180-day deadline without the central bank's clearance?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-366",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much is a currency chest branch charged the first time it is found not sorting notes on machines as required?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "kyc-cb-01",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Can a commercial bank turn down a customer's KYC updation request without properly considering it?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ },
+ {
+  "qid": "gen-360",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How many board members with banking or finance expertise must an urban co-operative bank have at a minimum?",
+  "text": "I can't answer that from the retrieved sources. The excerpts do not state the specific requirement asked about."
+ }
+]

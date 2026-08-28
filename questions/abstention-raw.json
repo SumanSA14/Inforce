@@ -1,0 +1,1114 @@
+[
+ {
+  "qid": "unans-gst-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What GST rate applies to fees charged on a savings account?",
+  "text": "The provided excerpts do not contain any information regarding the GST rate applicable to fees charged on a savings account. [1]"
+ },
+ {
+  "qid": "unans-ins-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How much life insurance cover is an agent required to recommend?",
+  "text": "[1] and [2] do not provide information on the life insurance cover an agent is required to recommend. These directions are specific to Small Finance Banks and All India Financial Institutions respectively, and do not contain any information regarding the life insurance cover recommendation."
+ },
+ {
+  "qid": "unans-lodr-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Which auditor certifies a listed company's quarterly results under SEBI LODR?",
+  "text": "The provided excerpts do not contain any information regarding the certification of a listed company's quarterly results under SEBI LODR by an auditor. Therefore, no citation is applicable."
+ },
+ {
+  "qid": "unans-mf-01",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What expense ratio must a mutual fund scheme disclose to unit holders?",
+  "text": "[4] Mutual Funds Units (MF Units) (1) Investment in un-quoted MF units shall be valued on the basis of the latest re-purchase price declared by the MF in respect of each scheme. (2) In case of funds with a lock-in period or any other MF, where repurchase price / market quote is not available, units shall be valued at Net Asset Value (NAV) of the scheme. If NAV is not available, these shall be valued at cost, till the end of the lock-in period. \n\nThe expense ratio is not directly mentioned in the provided directions. Therefore, no specific expense ratio must be disclosed to unit holders based on the given excerpts."
+ },
+ {
+  "qid": "unans-nps-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the minimum annual contribution to a National Pension System tier-2 account?",
+  "text": "The provided excerpts do not contain information about the minimum annual contribution to a National Pension System tier-2 account. [1]-[5] discuss prudential norms on capital adequacy for different types of banks, but do not specify contributions to tier-2 accounts."
+ },
+ {
+  "qid": "unans-stamp-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What stamp duty applies to transferring shares in a private company?",
+  "text": "The provided excerpts do not contain any information regarding stamp duty applicable to the transfer of shares in a private company. [2]"
+ },
+ {
+  "qid": "unans-scope-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "We have sanctioned loans against shares to clients who were allotted shares as anchor investors in a recent public issue. For how long are anchor investor shares locked in after allotment before those clients can sell them?",
+  "text": "The provided directions do not specify the lock-in period for anchor investor shares after allotment in a public issue. [2]"
+ },
+ {
+  "qid": "unans-scope-02",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our subsidiary offers portfolio management services. What is the minimum amount a single client must bring in to open a discretionary PMS account?",
+  "text": "The provided excerpts do not contain information regarding the minimum amount a single client must bring in to open a discretionary PMS account. [1]-[5]"
+ },
+ {
+  "qid": "unans-scope-03",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "Our bank has been approached to act as sponsor of a Category II Alternative Investment Fund. What minimum continuing interest must the sponsor keep invested in the scheme?",
+  "text": "[3] The minimum continuing interest that the sponsor must keep invested in the Category II Alternative Investment Fund (AIF) scheme is 10 percent of the corpus of that scheme."
+ },
+ {
+  "qid": "unans-scope-04",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many days before the board meeting that approves our quarterly results must the trading window be closed for designated employees who deal in the bank's own shares?",
+  "text": "The provided excerpts do not contain any information regarding the number of days before the board meeting that approves quarterly results for designated employees who deal in the bank's own shares. Therefore, the answer is:\n\n[1]"
+ },
+ {
+  "qid": "unans-scope-05",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "We hold units of a REIT within the permitted investment limit. What proportion of its net distributable cash flow is that REIT obliged to distribute to unit holders each year?",
+  "text": "The provided excerpts do not contain any information regarding the proportion of net distributable cash flow that a REIT is obliged to distribute to unit holders each year. Therefore, such information cannot be derived from the given sources. [1], [3]"
+ },
+ {
+  "qid": "unans-scope-06",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "Our bank acts as a depository participant. Within how many days of receiving a client's dematerialisation request form must we confirm the demat to the depository?",
+  "text": "[2] Reserve Bank of India (Urban Co-operative Banks – Undertaking of Financial Services) Directions, 2025 (Updated as on April 27, 2026) 32. A UCB fulfilling the criteria prescribed in paragraph 31 above and desirous of providing online trading facility to its demat account holders shall submit its application through PRAVAAH Portal. There is no specific mention of the number of days within which the bank must confirm the demat to the depository."
+ },
+ {
+  "qid": "unans-scope-07",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Where our bank as a self-certified syndicate bank fails to unblock a public issue applicant's funds on time after allotment, what compensation is payable to the applicant for each day of delay?",
+  "text": "The provided excerpts do not contain information regarding the compensation for a public issue applicant's funds unblocking delay by a self-certified syndicate bank. Therefore, such information cannot be derived from the given sources. [1], [2], [3], [4], [5]"
+ },
+ {
+  "qid": "unans-scope-08",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "How quickly after taking a rating action on one of our borrowers must the credit rating agency publish its press release?",
+  "text": "The credit rating agency should have reviewed the rating at least once during the previous 15 months after taking a rating action on one of the borrowers. [1]"
+ },
+ {
+  "qid": "unans-scope-09",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "A borrower of ours has been tagged 'issuer not cooperating' by its rating agency. After how long must the agency downgrade that rating to non-investment grade?",
+  "text": "[1] The norms state that where any rating assigned to a particular claim is classified as \"Issuer Not Cooperating\" (INC), banks shall determine the applicable risk weight based on Reserve Bank of India (Commercial Banks - Capital Charge for Credit Risk – Standardised Approach) Directions, 2026. 31. Norms for ‘Issuer Not Cooperating (INC)’ cases (i) Where any rating assigned to a particular claim is classified as “Issuer Not Cooperating” (INC), banks shall determine the applicable risk weight based on Reserve Bank of India (Commercial Banks - Capital Charge for Credit Risk – Standardised Approach) Directions, 2026, during the first six months from the date of such INC classification. \n\n[3] Norms for ‘Issuer Not Cooperating (INC)’ cases (ii) Where the INC classification continues beyond six months, the exposure shall attract a risk weight of 150 per cent until such time the INC rating is withdrawn by the ECRA.\n\nFrom the provided excerpts, the INC rating must be downgraded to non-investment grade after six months from the date of classification."
+ },
+ {
+  "qid": "unans-scope-10",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum position a single client may hold in a non-agricultural commodity futures contract on a recognised domestic exchange?",
+  "text": "The document does not specify the maximum position a single client may hold in a non-agricultural commodity futures contract on a recognised domestic exchange. [4]"
+ },
+ {
+  "qid": "unans-scope-11",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "Our bank holds a joint venture stake in a life insurance company. What minimum solvency ratio is that insurer required to maintain?",
+  "text": "[1] The eligibility criteria for joint venture participants in insurance business require that the net non-performing assets (NPAs) shall be not more than 3%. [1]"
+ },
+ {
+  "qid": "unans-scope-12",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A customer who bought a life policy through our branch now wants to cancel it. How long is the free-look period during which she can return the policy and get a refund of premium?",
+  "text": "The provided excerpts do not contain information regarding the free-look period for policy cancellation. [1], [2], [3], and [4] discuss insurance policies, regional rural banks, and commercial banks' prudential norms on capital adequacy, respectively, but do not specify the free-look period for policy cancellation."
+ },
+ {
+  "qid": "unans-scope-13",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "As a corporate agent distributing insurance, how many life insurers may our bank be tied up with at the same time?",
+  "text": "[1] An RRB may take up corporate agency business, without risk participation, for distribution of all types of insurance products, including health and animal insurance, subject to the following conditions: (1) An RRB should comply with the Insurance Regulatory and Development Authority of India (IRDAI) regulations for acting as 'composite corporate agent'. \n\nBased on the excerpt from [1], an RRB may be tied up with all types of insurance products, including health and animal insurance, without being restricted to a specific number of life insurers. Therefore, the answer is that there is no specific limit on the number of life insurers an RRB can be tied up with at the same time."
+ },
+ {
+  "qid": "unans-scope-14",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "A borrower's credit-linked insurance claim has been pending with the insurer for over two months. Within what period must the insurer settle it, and at what rate must it pay interest for the delay?",
+  "text": "The insurer must settle the credit-linked insurance claim within a period not exceeding 15 calendar days from the date of receipt of all the required documents associated with the claim. For claims related to safe deposit locker / articles in safe custody, the insurer must process the claim and communicate with the claimant(s) for fixing the date for making inventory of the locker / articles in safe custody within 15 calendar days of receipt of all the required documents. If the claim is not settled within the timeframe stipulated, the insurer shall communicate the reasons for such delay to the claimant(s). In cases of delay attributable to the insurer, compensation shall be paid by the insurer in the form of interest, at a rate not less than the prevailing Bank Rate + 4% per annum, on the settlement amount due for the period of delay. [4]"
+ },
+ {
+  "qid": "unans-scope-15",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A customer retiring at 60 wants to take her entire NPS corpus in cash. What minimum share of the accumulated corpus has to be used to purchase an annuity?",
+  "text": "The provided excerpts do not contain any information regarding the minimum share of the accumulated corpus that has to be used to purchase an annuity for a customer retiring at 60 under the National Pension System (NPS). Therefore, the answer is:\n\n[1]"
+ },
+ {
+  "qid": "unans-scope-16",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum charge our bank may recover from a subscriber on each NPS contribution in its capacity as a point of presence?",
+  "text": "The document does not provide information on the maximum charge our bank may recover from a subscriber on each NPS contribution in its capacity as a point of presence. [5]"
+ },
+ {
+  "qid": "unans-scope-17",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "At what level of annual interest paid on a customer's term deposits must the branch begin deducting tax at source, and at what rate?",
+  "text": "[1], [2], [3], [4], and [5] do not provide information on the level of annual interest paid on a customer's term deposits at which the branch must begin deducting tax at source. These directions do not contain such information."
+ },
+ {
+  "qid": "unans-scope-18",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Above what level of aggregate annual cash withdrawal from an account must we deduct tax at source, and at what rate?",
+  "text": "I can't answer that from the retrieved sources. The draft answer contained material the sources do not support (figures not found in any retrieved source: 18 (percent)), so it has been withheld rather than shown."
+ },
+ {
+  "qid": "unans-scope-19",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum deduction a customer can claim in a financial year for a five-year tax-saving fixed deposit placed with our bank?",
+  "text": "The provided excerpts do not contain any information regarding the maximum deduction a customer can claim in a financial year for a five-year tax-saving fixed deposit placed with the bank. [1]"
+ },
+ {
+  "qid": "unans-scope-20",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Within how many days of creating a hypothecation charge over a corporate borrower's assets must the charge be registered with the Registrar of Companies?",
+  "text": "The directions state that the trustees may at any time, by notice in writing to the Company, convert the floating charge into a fixed charge and get it registered as legal charge. This implies that the charge must be registered with the Registrar of Companies. However, the exact number of days within which the charge must be registered is not specified in the provided excerpts. [1]"
+ },
+ {
+  "qid": "unans-scope-21",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What percentage of average net profits is our bank required to spend on corporate social responsibility, and over how many preceding years is that average worked out?",
+  "text": "The provided excerpts do not contain information regarding the percentage of average net profits required to be spent on corporate social responsibility or the number of preceding years over which this average is calculated. Therefore, such information cannot be derived from the given excerpts. [1]"
+ },
+ {
+  "qid": "unans-scope-22",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What stamp duty is payable on the deed of mortgage executed by a borrower to secure a housing loan from our bank?",
+  "text": "The provided excerpts do not contain any information regarding the stamp duty payable on the deed of mortgage executed by a borrower to secure a housing loan from a bank. [1], [2], [3] discuss stamp duty and documentation charges in relation to housing loans, but they do not specify stamp duty on a deed of mortgage."
+ },
+ {
+  "qid": "unans-power-01",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What priority sector lending target must a payments bank meet as a share of its adjusted net bank credit?",
+  "text": "[3] The Master Directions - Reserve Bank of India (Priority Sector Lending – Targets and Classification) Directions, 2025 (Updated as on January 19, 2026) state that all banks shall adhere to the respective licencing and operating guidelines issued by the Department of Regulation, RBI as updated from time to time. However, there is no specific mention of a payments bank meeting a priority sector lending target as a share of its adjusted net bank credit in the provided excerpts."
+ },
+ {
+  "qid": "unans-power-02",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What risk weight does a payments bank apply to its unsecured retail loans when computing capital adequacy?",
+  "text": "I can't answer that from the retrieved sources. The draft answer contained material the sources do not support (citations that were never retrieved: [36]), so it has been withheld rather than shown."
+ },
+ {
+  "qid": "unans-power-03",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How soon must a payments bank close a customer's credit card account after a closure request before the daily penalty starts?",
+  "text": "The provided excerpts do not contain information regarding the timing of the daily penalty for closing a customer's credit card account after a closure request."
+ },
+ {
+  "qid": "unans-power-04",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the ceiling on a payments bank's exposure to a single borrower, as a share of its tier 1 capital?",
+  "text": "The document does not provide specific information regarding the ceiling on a payments bank's exposure to a single borrower, as a share of its tier 1 capital. [4]"
+ },
+ {
+  "qid": "unans-power-05",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What premature-withdrawal penalty may a payments bank levy on a five crore rupee term deposit from one customer?",
+  "text": "The provided excerpts do not contain any information regarding the penalty a payments bank may levy on a five crore rupee term deposit from a customer. Therefore, the answer is:\n\n[1]"
+ },
+ {
+  "qid": "unans-power-06",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "In a co-lending arrangement with an NBFC, what share of each loan must a payments bank keep on its own books?",
+  "text": "According to [3], in a co-lending arrangement, All Scheduled Commercial Banks (excluding SFBs, RRBs, UCBs and LABs) are permitted to co-lend with all registered Non-Banking Financial Companies (including Housing Finance Companies) for lending to the priority sector. There is no specific share mentioned for payments banks in this excerpt."
+ },
+ {
+  "qid": "unans-power-07",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What approval does a small finance bank need to set up a subsidiary for equipment leasing and hire purchase?",
+  "text": "A small finance bank cannot set up any subsidiaries. The guidelines state [5] \"However, small finance banks will not be allowed to set up any subsidiaries.\" Therefore, they cannot set up a subsidiary for equipment leasing and hire purchase."
+ },
+ {
+  "qid": "unans-power-08",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "How does a small finance bank consolidate its NBFC subsidiary's exposures for group capital adequacy?",
+  "text": "A small finance bank (SFB) with operational concentration in a few geographical regions should consider the impact of adverse economic developments in that region, and their impact on the asset quality. Therefore, a bank with operational concentration in a few geographical regions, by virtue of the pattern of its branch network, should also consider the impact of adverse economic developments in that region, and their impact on the asset quality. [2]"
+ },
+ {
+  "qid": "unans-power-09",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "When must a credit information company classify a loan to a member institution as non-performing?",
+  "text": "The Reserve Bank of India (Credit Information Companies) Directions, 2025 (Updated as on July 01, 2026) do not explicitly state when a credit information company must classify a loan to a member institution as non-performing. [1]"
+ },
+ {
+  "qid": "unans-power-10",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the longest tenor of a fixed deposit a credit information company may accept from the public?",
+  "text": "The provided excerpts do not contain any information regarding the longest tenor of a fixed deposit a credit information company may accept from the public. [1]"
+ },
+ {
+  "qid": "unans-power-11",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What must a credit information company do before engaging a recovery agent to collect from a borrower?",
+  "text": "The provided excerpts do not contain information regarding what must a credit information company do before engaging a recovery agent to collect from a borrower."
+ },
+ {
+  "qid": "unans-power-12",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many times its net owned funds may an asset reconstruction company hold in public deposits?",
+  "text": "0\n\nThere is no information in the provided excerpts regarding the limit on the holding of public deposits by asset reconstruction companies."
+ },
+ {
+  "qid": "unans-power-13",
+  "group": "unanswerable",
+  "class": "partial",
+  "retrieved": false,
+  "question": "What disclosures must an asset reconstruction company make in an advertisement inviting public deposits?",
+  "text": "Based on the provided excerpts, there is no information regarding the disclosures that an asset reconstruction company must make in an advertisement inviting public deposits. Therefore, the answer is:\n\n[5] Chapter-III Guidelines on Asset Reconstruction and Securitisation A. Asset Reconstruction A.1 Acquisition of financial assets 24. An ARC shall frame a Board-approved 'financial asset acquisition policy' within 90 days of grant of the CoR which shall provide that transactions take place in a transparent manner and at a fair price in a well-informed market and the transactions are executed on arm’s length basis by exercise of due diligence. It shall clearly lay down the policies and guidelines covering, inter alia, the following: (1) norms and\n[4] Reserve Bank of India (Asset Reconstruction Companies) Directions, 2025 (Updated as on March 10, 2026) Chapter-I Preliminary B. Applicability 3. These Directions shall be applicable to every Asset Reconstruction Company (hereinafter collectively referred to as ‘ARCs’ and individually as an ‘ARC’) registered with the Reserve Bank under Section 3 of the Securitisation and Reconstruction of Financial Assets and Enforcement of Security Interest Act, 2002."
+ },
+ {
+  "qid": "unans-power-14",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What approval does a local area bank need to open a branch outside its licensed districts?",
+  "text": "[1] Reserve Bank of India (Local Area Banks – Branch Authorisation) Directions, 2025\nA bank may shift, merge or close all ‘Banking Outlets’ (except rural outlets and sole semi-urban outlets) at its discretion. However, any rural ‘Banking Outlet’ as well as a sole semi urban ‘Banking Outlet’ would require approval of the District Consultative Committee (DCC) / District Level Review Committee (DLRC) for merger, closure and shifting outside a revenue centre."
+ },
+ {
+  "qid": "unans-power-15",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What are the eligibility conditions for a local area bank to open an IFSC Banking Unit at GIFT City?",
+  "text": "The document does not provide specific eligibility conditions for a local area bank to open an IFSC Banking Unit at GIFT City. [3]"
+ },
+ {
+  "qid": "unans-power-16",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What minimum chest balance must a local area bank maintain at a currency chest outside its area of operation?",
+  "text": "The provided excerpts do not contain information regarding the minimum chest balance a local area bank must maintain at a currency chest outside its area of operation."
+ },
+ {
+  "qid": "unans-power-17",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What share of its public deposits must a non-deposit-taking NBFC hold in unencumbered approved securities?",
+  "text": "According to [3], every NBFC-D, shall invest and continue to invest in India in unencumbered approved securities valued at the price not exceeding the current market price of such securities an amount which shall, at the close of business on any day, not be less than 15 per cent of the 'public deposit', as defined under paragraph 7(14) of these Directions, outstanding at the close of business on the last working day of second preceding quarter."
+ },
+ {
+  "qid": "unans-power-19",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How often must a non-deposit-taking NBFC file its return on public deposits?",
+  "text": "The provided excerpts do not contain information about the frequency at which a non-deposit-taking NBFC files its return on public deposits. [2]"
+ },
+ {
+  "qid": "unans-power-20",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "Within how many days of maturity must a non-deposit-taking NBFC repay a public deposit?",
+  "text": "A non-deposit-taking NBFC must repay a public deposit within three months of its maturity. [3]"
+ },
+ {
+  "qid": "unans-absent-02",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What penalty rate must a bank deduct from the applicable interest when a depositor prematurely withdraws a domestic term deposit before maturity?",
+  "text": "[3] There shall be a comprehensive policy on penalties for premature withdrawal of term deposits, including partial premature withdrawal, approved by the Board of Directors or any Committee of the Board to which powers have been delegated. 21. The components of penalty shall be clearly brought to the notice of the depositors at the time of acceptance of deposits. If not, no penalty shall be levied. 22. In case of splitting of the amount of term deposit at the request from the claimant(s), the penalty rate must be clearly brought to the notice of the depositors at the time of acceptance of deposits."
+ },
+ {
+  "qid": "unans-absent-03",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "By how many basis points above the card rate may a commercial bank pay resident senior citizens on a domestic term deposit?",
+  "text": "[3] The relevant excerpt states that \"A bank may, at its discretion, formulate term deposit schemes specifically for resident Indian senior citizens, offering higher and fixed rates of interest as compared to normal deposits of any size.\" This indicates that the interest rates for senior citizens can be higher, but it does not specify by how many basis points. Therefore, the exact number cannot be determined from the provided information. [3]"
+ },
+ {
+  "qid": "unans-absent-04",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum annual fee a card issuer may charge a cardholder on a credit card?",
+  "text": "[1] does not provide information about the maximum annual fee a card issuer may charge a cardholder on a credit card."
+ },
+ {
+  "qid": "unans-absent-05",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What annual rent may a bank charge for a medium-sized safe deposit locker at an urban branch?",
+  "text": "The provided excerpts do not contain specific information about the annual rent for a medium-sized safe deposit locker at an urban branch. Therefore, no answer can be derived from the given text. [1], [4]"
+ },
+ {
+  "qid": "unans-absent-06",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "How many days is the cooling-off period during which a borrower may exit a digital loan by repaying the principal and the proportionate APR without penalty?",
+  "text": "The cooling-off period is determined by the bank in terms of its credit policy, subject to the period not being less than one day. [1], [2], [3], [4], [5]"
+ },
+ {
+  "qid": "unans-absent-07",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the maximum commission a bank may pay a business correspondent for sourcing a deposit account?",
+  "text": "[1] and [2] and [3] do not provide information about the maximum commission a bank may pay a business correspondent for sourcing a deposit account. These directions mainly focus on prohibitions and exemptions related to deposit mobilization and remuneration."
+ },
+ {
+  "qid": "unans-absent-08",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What minimum balance must a commercial bank require a customer to maintain in an ordinary savings bank account?",
+  "text": "A commercial bank requires its customers to maintain a minimum balance in an ordinary savings bank account, and at the time of opening the account, the bank must inform the customer in a transparent manner about the requirement of maintaining the minimum balance and details of charges, if any, due to non-maintenance of the same. This requirement is mentioned in [1] and [4], indicating that both directions mention the requirement of maintaining a minimum balance in savings bank accounts."
+ },
+ {
+  "qid": "unans-absent-09",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "How many CCTV cameras must a bank deploy to cover the entry and exit of a locker strong room?",
+  "text": "According to [1], [2], and [3], a bank must cover the entry and exit of the strong room and the common areas of operation under CCTV camera and preserve its recording for a period of not less than 180 days."
+ },
+ {
+  "qid": "unans-absent-10",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many hours of AML/CFT training must a bank provide to each frontline employee every year?",
+  "text": "The provided excerpts do not specify the exact number of hours of AML/CFT training that a bank must provide to each frontline employee every year. [1], [2], [3], [4], [5] discuss the need for adequate screening mechanisms, ensuring staff integrity and ethical standards, fostering open communication, and the need for ongoing training programs, but do not mention the specific duration of training."
+ },
+ {
+  "qid": "unans-absent-11",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the minimum amount of cash a bank must load into an offsite ATM at each replenishment?",
+  "text": "The provided excerpts do not contain information regarding the minimum amount of cash a bank must load into an offsite ATM at each replenishment. [1], [2], [3], [4]"
+ },
+ {
+  "qid": "unans-absent-13",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many full-time internal audit staff must a commercial bank maintain in relation to the size of its branch network?",
+  "text": "The provided excerpts do not contain any information regarding the number of full-time internal audit staff a commercial bank must maintain in relation to the size of its branch network. [3]"
+ },
+ {
+  "qid": "unans-absent-14",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How many years of information security experience must a bank's Chief Information Security Officer have before appointment?",
+  "text": "The provided excerpts do not contain any information about the qualifications and experience required for a Chief Information Security Officer (CISO). Therefore, the answer is that the information is not available from the given excerpts.\n\n[1], [2], [3], [4], [5]"
+ },
+ {
+  "qid": "unans-absent-15",
+  "group": "unanswerable",
+  "class": "partial",
+  "retrieved": false,
+  "question": "What is the minimum fixed tenure for which a private sector bank must appoint its Chief Risk Officer?",
+  "text": "[2] A UCB having an asset size of ₹5000 crore or above, shall appoint a CRO. Provided that, a UCB which attains the asset size of ₹5,000 crore or above at the end of a financial year shall appoint or designate a CRO within a period of six months from the end of that financial year. 31. The Board of a UCB shall clearly define the CRO’s role and responsibilities and ensure that they function independently. The Board shall put in place adequate policies to safeguard such independence. For this purpose, it shall ensure that: (1) the CRO shall have direct reporting\n\nBased on the provided directions, a UCB having an asset size of ₹5000 crore or above must appoint a CRO, and a UCB which attains the asset size of ₹5,000 crore or above at the end of a financial year shall appoint or designate a CRO within a period of six months from the end of that financial year. However, the minimum fixed tenure for which a private sector bank must appoint its Chief Risk Officer (CRO) is not specified in the provided directions."
+ },
+ {
+  "qid": "unans-absent-16",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Within how many days must a bank credit the proceeds of an outstation cheque to the payee's account?",
+  "text": "The provided excerpts do not contain any information regarding the number of days within which a bank must credit the proceeds of an outstation cheque to the payee's account. [1] [2] [3] [4] [5]"
+ },
+ {
+  "qid": "unans-absent-17",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "How many note sorting machines must a currency chest branch install?",
+  "text": "According to [1], all currency chest branches shall be equipped with verification, processing and sorting machines and shall be used to their optimum capacity. Therefore, a currency chest branch must install note sorting machines. [1]"
+ },
+ {
+  "qid": "unans-absent-18",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What is the maximum rate of dividend an urban co-operative bank may declare to its shareholding members?",
+  "text": "[3] A UCB may declare dividend provided it fulfils conditions outlined as under: (ii) NNPA ratio shall be less than five per cent, after making all necessary provisions (including provisions required as per assessment made by the Reserve Bank in the last inspection report), for the financial year for which dividend is proposed.\n\nBased on the excerpt from [3], the maximum rate of dividend an urban co-operative bank may declare to its shareholding members is contingent upon the NNPA ratio being less than five per cent."
+ },
+ {
+  "qid": "unans-absent-19",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What is the maximum merchant discount rate an acquiring bank may charge a merchant on a credit card transaction?",
+  "text": "[2] Master Direction on Regulation of Payment Aggregator (PA) 10. A PA shall ensure that any charges, other than the price of goods / service / investment amount, charged by a merchant, are distinctly displayed to the payer prior to the transaction. There is no specific maximum merchant discount rate mentioned for acquiring banks in the provided excerpts."
+ },
+ {
+  "qid": "unans-absent-20",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "What is the maximum annual fixed pay a private sector bank may pay its Managing Director and CEO?",
+  "text": "[1] The maximum annual fixed remuneration for an NED (Non-Executive Director) of a Public Sector Bank (PSB) is clarified as not exceeding ₹30 lakh per annum for an NED, other than the Chair of the Board. This does not directly apply to the Managing Director and CEO of a Private Sector Bank (PVB). \n\n[4] For a PVB, the maximum annual fixed pay for the WTD (Whole-Time Director), MD&CEO (Managing Director & Chief Executive Officer), CEO (Chief Executive Officer), and MRTs (Material Risk Takers) is not explicitly stated. However, it is mentioned that the fixed pay is reasonable and should comply with statutory requirements and industry practice. \n\nBased on the information provided, the maximum annual fixed pay for the Managing Director and CEO of a PVB is not directly stated and would need to be determined based on the specific compensation structure set by the bank, subject to statutory requirements and industry practice."
+ },
+ {
+  "qid": "unans-time-01",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our small finance bank is drawing up its transition plan for expected credit loss provisioning. From April 1, 2027, what fraction of the day-one transitional adjustment may we add back to CET1 capital in each year of the transition, and what regulatory PD and LGD floors apply to our Stage 1 retail exposures?",
+  "text": "The provided excerpts do not contain information regarding the transition plan for expected credit loss provisioning, the fraction of the day-one transitional adjustment that may be added back to CET1 capital in each year of the transition, or the regulatory PD and LGD floors applicable to Stage 1 retail exposures. Therefore, such information cannot be derived from the given excerpts. [1], [2], [3], [4], [5]"
+ },
+ {
+  "qid": "unans-time-02",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "For our FY2027-28 ICAAP we need the cut-over date: from which date must a commercial bank stop computing minimum operational risk capital under the Basic Indicator Approach and begin using the Basel III Standardised Approach based on the Business Indicator and Internal Loss Multiplier?",
+  "text": "[1] The cut-over date from the Basic Indicator Approach (BIA) to the Basel III Standardised Approach based on the Business Indicator (BI) and Internal Loss Multiplier (ILM) is not explicitly stated in the provided excerpts. Therefore, no specific cut-over date can be derived from the given information."
+ },
+ {
+  "qid": "unans-time-03",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Once the 2027 Census population figures are notified, from which date must we re-classify centres into Tier 1 to Tier 6 for banking outlet purposes, and is any grandfathering available for outlets that move from an unbanked rural centre to a higher tier?",
+  "text": "[1] The provided directions do not specify a date for re-classifying centres into Tier 1 to Tier 6 based on the 2027 Census population figures. Additionally, there is no mention of any grandfathering for outlets that move from an unbanked rural centre to a higher tier."
+ },
+ {
+  "qid": "unans-time-04",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "Our green deposit financing framework currently allocates proceeds using the interim list of eligible activities. Once the official Indian green taxonomy is notified, by when must proceeds already allocated be re-mapped to the taxonomy, and how do we treat projects financed under the interim list that fall outside it?",
+  "text": "The current framework allocates proceeds using the interim list of eligible activities. Once the official Indian green taxonomy is notified, the bank must re-map the proceeds already allocated to the taxonomy. For projects financed under the interim list that fall outside the taxonomy, the bank shall allocate the proceeds towards the eligible green activities / projects which encourage energy efficiency in resource utilisation, reduce carbon emissions, emission of greenhouse gases, promote climate resilience, climate adaptation, as well as value and improve natural ecosystems and biodiversity. [3]"
+ },
+ {
+  "qid": "unans-time-05",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "For FY2027-28 reporting, what climate-related financial disclosures across governance, strategy, risk management, and metrics and targets must a commercial bank publish, what climate scenario analysis results must accompany them, and is third-party assurance mandatory?",
+  "text": "For FY2027-28 reporting, a commercial bank must publish climate-related financial disclosures across governance, strategy, risk management, and metrics and targets. These disclosures must include the amount raised under green deposits during the previous financial year, a list of green activities/projects to which proceeds have been allocated, along with a brief description of the projects, the amount allocated to the eligible green activities/projects, and the Third-Party Verification/Assurance Report and Impact Assessment Report. The third-party verification/assurance report is mandatory as per the Directions, as stated in [5]. Climate scenario analysis results must accompany these disclosures."
+ },
+ {
+  "qid": "unans-time-06",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A resident-controlled fintech promoter group intends to apply for a payments bank licence under the on-tap route. What minimum paid-up voting equity capital and promoter contribution apply, what is the promoter lock-in, and is the application window currently open?",
+  "text": "The on-tap route for payments bank licences is not mentioned in the provided excerpts. Therefore, I cannot provide specific information regarding the minimum paid-up voting equity capital, promoter contribution, promoter lock-in, or the application window status for the on-tap route. [1] [2] [3] [4]"
+ },
+ {
+  "qid": "unans-time-07",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "We are evaluating whether an infrastructure-focused NBFC should migrate to a wholesale and long-term finance bank licence. What minimum net worth applies to that category, and what floor is placed on the size of deposits such a bank may accept from a single depositor?",
+  "text": "The provided excerpts do not contain information regarding the minimum net worth for an infrastructure-focused NBFC to migrate to a wholesale and long-term finance bank licence or the floor on the size of deposits such a bank may accept from a single depositor. Therefore, no such information can be derived from the given excerpts. [1], [2], [3], [4]"
+ },
+ {
+  "qid": "unans-time-08",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "The 2026 KCC Directions permit disbursal of the Kisan Credit Card limit through CBDC. What holding limit applies to a farmer's e-rupee wallet, from which date is CBDC-based disbursal mandatory rather than optional, and what CBDC-specific reporting must the disbursing bank make to the Reserve Bank?",
+  "text": "The 2026 KCC Directions permit the disbursement of the Kisan Credit Card limit through CBDC. However, the document does not specify a holding limit for a farmer's e-rupee wallet. The document also does not mention a mandatory date for the CBDC-based disbursement to be mandatory rather than optional. Lastly, the document does not require the disbursing bank to make any specific CBDC-specific reporting to the Reserve Bank. [1]"
+ },
+ {
+  "qid": "unans-time-09",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Our bank is deploying generative AI models in credit underwriting and in collections contact strategy. What board-approved AI policy, independent model validation and customer-disclosure obligations does the Reserve Bank impose, and what is the compliance deadline for existing deployments?",
+  "text": "The Reserve Bank of India imposes board-approved AI policy, independent model validation, and customer-disclosure obligations for the deployment of generative AI models in credit underwriting and collections contact strategy. These requirements are detailed in the [1] Reserve Bank of India (Commercial Banks – Forthcoming Instructions) Directions, 2025. The compliance deadline for existing deployments is not specified in the provided excerpts.\n\nFor the independent model validation and customer-disclosure obligations, the [3] Reserve Bank of India (Commercial Banks – Asset Liability Management) Directions, 2025 mentions periodic model validation and the need for documentation in respect of discount rates, coupons, assumptions used, and validation process. However, these excerpts do not specify the exact obligations for independent model validation and customer-disclosure for AI models. Therefore, the specific obligations and compliance deadline for existing deployments cannot be determined from the provided excerpts."
+ },
+ {
+  "qid": "unans-time-10",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "We are finalising branch-level priority sector targets for FY 2027-28. Which districts attract the 125 per cent incentive weight for incremental priority sector credit in that year, and which attract the reduced weight for districts with comparatively higher credit flow?",
+  "text": "The districts that attract the 125% incentive weight for incremental priority sector credit in FY 2027-28 are those where the per capita PSL is less than ₹9,000. The districts that attract the reduced 90% weight for districts with comparatively higher flow of priority sector credit in FY 2027-28 are those where the per capita PSL is greater than ₹42,000. [4]"
+ },
+ {
+  "qid": "unans-time-11",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Private banking clients are asking about the enhanced Liberalised Remittance Scheme limit applicable from FY 2027-28. What is the revised annual per-individual limit, and does the enhancement extend to capital account transactions such as acquisition of overseas listed equity?",
+  "text": "The enhanced Liberalised Remittance Scheme (LRS) limit applicable from FY 2027-28 is USD 2,50,000 per Financial Year. The text does not provide information about whether the enhancement extends to capital account transactions such as the acquisition of overseas listed equity. [1]"
+ },
+ {
+  "qid": "unans-time-12",
+  "group": "unanswerable",
+  "class": "partial",
+  "retrieved": false,
+  "question": "What data is a bank required to contribute to the Digital Payments Intelligence Platform, at what frequency must it be submitted, and from which date is participation mandatory for scheduled commercial banks?",
+  "text": "The Digital Payments Intelligence Platform (DPIP) requires banks to contribute data of accounts, financial performance of borrowers, market intelligence and conduct of the borrowers. The frequency of submission is not specified in the provided excerpts. However, the participation for scheduled commercial banks is mandatory from December 2025. The submission is to be made in electronic form on the Centralised Information Management System (CIMS) portal using digital signatures of two authorised officials. The banks are required to submit fortnightly Form A return from December 15, 2025 and monthly Form VIII return from December 2025. [4]"
+ },
+ {
+  "qid": "unans-time-13",
+  "group": "unanswerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "From which date must loan transfer transactions be reported to the trade reporting platform notified by the Reserve Bank, what is the reporting format, and what is the timeline for reporting each individual transfer?",
+  "text": "According to [1] and [2], loan transfer transactions undertaken under these directions must be reported to a trade reporting platform as notified by the Reserve Bank of India. The detailed instructions for this reporting will be issued separately. In anticipation of the same, the respective institutions (NBFC, AIFIs) shall maintain a database of loan transfer transactions with adequate MIS concerning each transaction till the reporting platform is notified and the related instructions are issued. The directions come into force from January 1, 2026, or from any earlier date as decided by a RE as per its internal policy. Existing CLAs and new CLAs entered into prior to the effective date shall be in compliance with the extant regulations. Therefore, the timeline for reporting each individual transfer is until the related instructions are issued and the reporting platform is notified."
+ },
+ {
+  "qid": "unans-time-14",
+  "group": "unanswerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "A borrower with aggregate exposure of about ₹800 crore to the banking system has defaulted with us. From what reference date does the 30-day review period run for that exposure band, and by when must the inter-creditor agreement be signed?",
+  "text": "I can't answer that from the retrieved sources. The draft answer contained material the sources do not support (figures not found in any retrieved source: 800 crore (money)), so it has been withheld rather than shown."
+ },
+ {
+  "qid": "gen-164",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "What is the usual tenure of the officer in charge of audit at a local area bank?",
+  "text": "The usual tenure of the officer in charge of audit at a local area bank is three years, as stated in [3] under E. Tenure and Rotation, \"In order to protect the independence of the auditors, the bank shall appoint the SCAs / SAs for a continuous period of three years, subject to the firms satisfying the eligibility norms each year.\""
+ },
+ {
+  "qid": "gen-246",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How often must a regional rural bank's senior leadership be briefed on the bank's securities dealings?",
+  "text": "The provided excerpts do not contain information regarding how often a regional rural bank's senior leadership must be briefed on the bank's securities dealings."
+ },
+ {
+  "qid": "gen-65",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Beyond what delay must an agency bank get the concerned Ministry's clearance before sending a Central Government item for settlement?",
+  "text": "The provided excerpts do not contain information regarding the delay beyond which an agency bank must get the concerned Ministry's clearance before sending a Central Government item for settlement. Therefore, no citation is applicable."
+ },
+ {
+  "qid": "ppi-01",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Within what period must a prepaid payment instrument be used before further credit is barred?",
+  "text": "The period before further credit is barred for a prepaid payment instrument is not explicitly mentioned in the provided excerpts. [3] mentions that pre-payment charges, if any, for term loans and cash credit/overdraft facilities are based on the amount being prepaid or the sanctioned limit, respectively. However, it does not specify a period for the use of prepaid payment instruments."
+ },
+ {
+  "qid": "gen-29",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "In sizing a Kisan Credit Card limit at a rural co-operative bank, what percentage is added on top for after-harvest costs and family living needs?",
+  "text": "[3] The Annex I. (15) states that the banks shall fix the repayment period as per the crop season applicable. This implies that for after-harvest costs and family living needs, a percentage is added on top of the Kisan Credit Card (KCC) limit for these purposes. However, the specific percentage is not mentioned in the provided excerpts."
+ },
+ {
+  "qid": "gen-174",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "How much does the RBI pay a bank branch for every bag of coins it hands out to the public?",
+  "text": "[3] The Master Direction on Currency Distribution & Exchange Scheme (CDES) based on performance in rendering customer service to the members of public states that a bank branch will receive an incentive of ₹25 per bag for the distribution of coins over the counter."
+ },
+ {
+  "qid": "gen-4",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "If no law fixes how long an OTC derivative market-maker must keep its books, what minimum time must it hold them once a product ends?",
+  "text": "The provided excerpts do not contain any information regarding the minimum time an OTC derivative market-maker must hold its books once a product ends. Therefore, no claim can be made based on the given excerpts. [Not Available]"
+ },
+ {
+  "qid": "gen-359",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "By when must card issuers be ready to verify overseas online purchases where the shop abroad seeks confirmation?",
+  "text": "[1] Card issuers shall put in place a mechanism to validate non-recurring, cross-border card not present (CNP) transactions by October 01, 2026, where request for authentication is raised by an overseas merchant or overseas acquirer."
+ },
+ {
+  "qid": "gen-126",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Up to what balance must a payments bank apply a single savings rate to every account?",
+  "text": "According to [3], a uniform interest rate shall be set on balance up to ₹1 lakh, irrespective of the amount in the account within this limit."
+ },
+ {
+  "qid": "gen-287",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Against pledged government paper, how big a loan may a director of an all India financial institution take relative to its resale value?",
+  "text": "[2] Master Direction – Direct Investment by Residents in Joint Venture (JV) / Wholly Owned Subsidiary (WOS) Abroad (Updated as on June 24, 2021)\n(3) Loans and advances to a director against government securities, life insurance policies or fixed deposit, where loan-to-value is not in excess of 100 per cent of the realisable value of such securities or in adherence to specifically prescribed LTV ratio and valuation norms for loans against such a primary security by relevant Directions of the RBI, if any. \n\nBased on the above excerpt, the loan-to-value ratio for loans against government securities, life insurance policies, or fixed deposit for a director is not in excess of 100 per cent of the realisable value of such securities."
+ },
+ {
+  "qid": "gen-108",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How quickly should a government-funded debt relief scheme be wrapped up and the money paid to a local area bank?",
+  "text": "The DRS should be implemented and the settlement of claims by the Governments to the regulated entities should generally be completed within 45 to 60 days. [3]"
+ },
+ {
+  "qid": "gen-103",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "Up to what amount must a small finance bank always let a customer close a fixed deposit early?",
+  "text": "[1] does not provide information on the amount up to which a small finance bank must always let a customer close a fixed deposit early."
+ },
+ {
+  "qid": "gen-142",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How often must a rural co-operative bank take stock of how its debit cards are being used?",
+  "text": "The provided excerpts do not contain information on how often a rural co-operative bank must take stock of how its debit cards are being used."
+ },
+ {
+  "qid": "psl-02",
+  "group": "answerable",
+  "class": "partial",
+  "retrieved": true,
+  "question": "What share of lending must go to weaker sections under priority sector norms?",
+  "text": "[1] states that loans to the following borrowers will be considered as lending to Weaker Sections (overlapping category): (i) Small and Marginal Farmers (ii) Artisans, village and cottage industries where individual credit limits do not exceed ₹1 lakh (iii) Beneficiaries under Government Sponsored Schemes such as National Rural Livelihood Mission (NRLM), [****] and Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) (iv) Scheduled Castes and Scheduled Tribes (v) Beneficiaries of Differential Rate of Interest (DRI) scheme (vi) Self Help Groups/Joint Liability Groups (vii) Individuals and individual members of SHGs/JLGs [availing microfinance loans satisfying the criteria as prescribed in Reserve Bank of India (Credit Facilities) 17 Substituted vide Reserve Bank of India (Priority).\n\n[3] states that Priority sector loans to the following borrowers will be considered as lending to Weaker Sections (overlapping category): (i) Small and Marginal Farmers (ii) Artisans, village and cottage industries where individual credit limits do not exceed ₹2 lakh (iii) Beneficiaries under Government Sponsored Schemes such as National Rural Livelihood Mission (NRLM), [****] and Self Employment Scheme for Rehabilitation of Manual Scavengers (SRMS) (iv) Scheduled Castes and Scheduled Tribes (v) Beneficiaries of Differential Rate of Interest (DRI) scheme (vi) Self Help Groups/Joint Liability Groups (vii) Individuals and individual members of SHGs/JLGs [availing microfinance loans satisfying the criteria as prescribed in Reserve Bank of India (Credit Facilities) 17 Substituted vide Reserve Bank of India (Priority).\n\nBased on the information provided in [1] and [3], the share of lending that must go to weaker sections under priority sector norms is not specified. The documents mention that loans to certain categories fall under the weaker sections"
+ },
+ {
+  "qid": "gen-243",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How much of its core capital can a housing finance company put into one affiliated real estate firm?",
+  "text": "[1] does not specify the exact percentage of core capital a housing finance company can put into one affiliated real estate firm."
+ },
+ {
+  "qid": "ucb-networth-01",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "By when must a shortfall in an urban co-operative bank's net worth be made good?",
+  "text": "[3] Chapter 5 states that a UCB shall have minimum net worth. However, there is no specific mention of a deadline for making good a shortfall in net worth. Therefore, the answer is that there is no specific deadline mentioned in the provided excerpts."
+ },
+ {
+  "qid": "gen-324",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How often does an urban co-operative bank have to tell the RBI how far it has got with getting customers to name someone to receive their deposits?",
+  "text": "The provided excerpts do not contain any information regarding how often an urban co-operative bank has to tell the RBI how far it has got with getting customers to name someone to receive their deposits. Therefore, the answer is:\n\n[1]"
+ },
+ {
+  "qid": "gen-121",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What is the highest commission an NBFC may hand a middleman for canvassing fixed deposits?",
+  "text": "The provided excerpts do not contain any information regarding the highest commission an NBFC may hand a middleman for canvassing fixed deposits. [2]"
+ },
+ {
+  "qid": "gen-161",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How large must the Investment Fluctuation Reserve of an urban co-operative bank be before it stops moving trading profits into it?",
+  "text": "The provided excerpts do not contain information regarding the Investment Fluctuation Reserve or the conditions under which an urban co-operative bank stops moving trading profits into it. Therefore, no answer can be derived from the given excerpts. [1], [3]"
+ },
+ {
+  "qid": "gen-338",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How many reimbursement claims may a rural co-operative bank lodge with the depositor education fund in a single month?",
+  "text": "[1]\nA bank shall submit only one consolidated claim per month. Therefore, a rural co-operative bank may lodge only one reimbursement claim with the Depositor Education and Awareness Fund (DEA Fund) in a single month."
+ },
+ {
+  "qid": "gen-306",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How many days ahead must a local area bank tell debit card users about a revision in conditions?",
+  "text": "The document does not specify the number of days ahead a local area bank must tell debit card users about a revision in conditions. [4]"
+ },
+ {
+  "qid": "gen-117",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Under the money transfer service scheme, how soon after a quarter closes must an Indian agent file particulars of new sub agents with the regional office?",
+  "text": "The Indian Agents should submit on a quarterly basis necessary information in the prescribed format in soft copy form pertaining to their Sub Agents appointed during a quarter within 15 days from the end of the quarter, to the respective regional offices of the Foreign Exchange Department of the Reserve Bank. [2]"
+ },
+ {
+  "qid": "gen-16",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "What is the lowest balance a rural co-operative bank may let a minor's account fall to?",
+  "text": "The provided excerpts do not contain information regarding the lowest balance a rural co-operative bank may let a minor's account fall to. [1], [2], [3], [4], [5]"
+ },
+ {
+  "qid": "sec-nbfc-01",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "What minimum retention requirement applies to an NBFC securitising loans with maturity over 24 months?",
+  "text": "The MRR for underlying loans with original maturity of more than 24 months as well as loans with bullet repayments is 10 per cent of the book value of the loans being securitised. [1]"
+ },
+ {
+  "qid": "gen-370",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How frequently must an all India financial institution's in-house audit team examine lending to connected persons?",
+  "text": "The provided excerpts do not contain any information regarding the frequency at which an all India financial institution's in-house audit team must examine lending to connected persons. [4] discusses the internal audit function but does not specify the frequency for examining lending to connected persons."
+ },
+ {
+  "qid": "car-pb-02",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How much CET 1 capital must a payments bank hold against its risk weighted assets?",
+  "text": "A payments bank must maintain a Minimum Total Capital (MTC) of 15 per cent of the Total Risk Weighted Assets (RWAs) on an ongoing basis, which is equivalent to a Capital to Risk Weighted Asset Ratio (CRAR) of at least 15 per cent on an ongoing basis. This is stated in Chapter II, Limits and minima, under Limit (1) of the Reserve Bank of India (Payments Banks – Prudential Norms on Capital Adequacy) Directions, 2025 (updated as on May 08, 2026) [3]."
+ },
+ {
+  "qid": "gen-104",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "Below what remittance value does a small finance bank have to identify a walk-in customer who is splitting transfers to dodge monitoring?",
+  "text": "The provided excerpts do not contain information about the remittance value below which a small finance bank has to identify a walk-in customer who is splitting transfers to dodge monitoring. Therefore, the answer is:\n\n[1]"
+ },
+ {
+  "qid": "gen-71",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How many days past due can an account be at a rural co-operative bank on the date a natural disaster strikes and still qualify for relief measures?",
+  "text": "The provided excerpts do not contain information regarding the number of days past due an account can be on the date a natural disaster strikes and still qualify for relief measures. [1]"
+ },
+ {
+  "qid": "gen-11",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "What ceiling applies to guarantees a local area bank gives without security, measured against its total assets?",
+  "text": "According to [2], the total volume of guaranteed obligations of LABs outstanding at any time shall not exceed 5 per cent of their total assets as per the previous financial year’s balance sheet. Unsecured guarantees of LABs shall be restricted to 1.25 per cent of total assets."
+ },
+ {
+  "qid": "gen-297",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "For a regional rural bank, how many days of an overdraft staying above its approved ceiling makes the account irregular?",
+  "text": "For a regional rural bank, an overdraft staying above its approved ceiling for more than 90 days makes the account irregular. [3]"
+ },
+ {
+  "qid": "gen-198",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How quickly must an asset reconstruction company send RBI a return once the accounts have been certified by its auditor?",
+  "text": "The return must be sent to RBI within 5 working days from the date of signing of the Auditor's report, as mentioned in the RBI (Asset Reconstruction Companies - Supervisory Returns) Directions, 2026 [2]."
+ },
+ {
+  "qid": "arc-notice-01",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How much notice must an ARC give before taking control of a borrower's business?",
+  "text": "[1]\nThe ARC shall give a notice of 60 days to the borrower indicating its intention to effect change in or takeover of the management of the business of the borrower and calling for objections, if any."
+ },
+ {
+  "qid": "gen-319",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How soon after getting the money must a person who moved back to India send home the proceeds of a foreign currency insurance cover?",
+  "text": "The policy holder must repatriate to India through normal banking channels the maturity proceeds or amount of any claim due on the policy within a period of seven days from the receipt thereof. [1]"
+ },
+ {
+  "qid": "gen-182",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Is there any fee for a user to set up a standing auto-debit instruction with a merchant?",
+  "text": "No, there is no specific mention of a fee for a user to set up a standing auto-debit instruction with a merchant in the provided excerpts. [1]"
+ },
+ {
+  "qid": "gen-78",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": false,
+  "question": "How long in total can one person serve as internal ombudsman at a small finance bank, counting any renewals?",
+  "text": "The document does not provide specific information on the total duration one person can serve as an Internal Ombudsman at a small finance bank. Therefore, no citation is needed as the information is not available in the provided excerpts."
+ },
+ {
+  "qid": "gen-203",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "What share of a securitisation deal may the all India financial institution that originated it keep on its own books?",
+  "text": "[1] The directions in [1] do not specify the share of a securitisation deal that an all India financial institution that originated it may keep on its own books."
+ },
+ {
+  "qid": "gen-157",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much net worth must a regional rural bank have before deploying its own card swipe machines at shops?",
+  "text": "I can't answer that from the retrieved sources. The draft answer contained material the sources do not support (figures not found in any retrieved source: 100 crore (money)), so it has been withheld rather than shown."
+ },
+ {
+  "qid": "gen-165",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How much notice must the convenor give before a credit information sub-group meets, under the rules for local area banks?",
+  "text": "The convenor shall send the meeting agenda and notes at least fifteen (15) days before the scheduled meeting. This is stated in [1] and [2] directions."
+ },
+ {
+  "qid": "gen-62",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How long may a payments bank keep the same outside firm doing its ongoing transaction audits?",
+  "text": "The provided excerpts do not contain information regarding the duration a payments bank may keep the same outside firm doing its ongoing transaction audits."
+ },
+ {
+  "qid": "ppi-02",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much notice does a wallet provider owe a customer before the wallet lapses?",
+  "text": "The provided excerpts do not contain any information regarding the notice period a wallet provider owes a customer before the wallet lapses."
+ },
+ {
+  "qid": "gen-97",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How long does a regulator have to clear an overseas investment proposal in an IFSC before approval is presumed?",
+  "text": "The regulator for the financial sector in the host jurisdiction has to clear the application within 45 days from the date of receipt of application complete in all respects. If the application is not cleared within this period, it shall be deemed to be approved. [1]"
+ },
+ {
+  "qid": "gen-216",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How much commission does a broker earn on savings bond applications they bring in?",
+  "text": "[1] Brokerage at the rate of ` 0.50 (Fifty paise only) per ` 100/- will be paid to brokers registered/enrolled with the Receiving Offices on applications tendered for investment in the bonds in the form of Bond Ledger Account (BLA) at Receiving Offices on behalf of their clients and bearing their stamp."
+ },
+ {
+  "qid": "aifi-cooling-01",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How long must an all India financial institution wait before lending again to a borrower whose loan it sold?",
+  "text": "[1] The transferee(s) should not fund the loan acquisition through loans from lenders specified at Paragraph 12(4). For at least three years from the date of such transfer, the lenders should not take any credit/investment exposure apart from working capital facilities to the borrower whose loan account is transferred."
+ },
+ {
+  "qid": "gen-347",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Besides the chairperson, how many senior staff sit on the panel a commercial bank sets up to decide if a borrower defaulted deliberately?",
+  "text": "According to [3], the Senior Management of the bank shall place a periodic review of incidents of fraud before Board / Audit Committee of Board (ACB), as appropriate. This indicates that the panel includes the chairperson and two senior officials. Therefore, besides the chairperson, two senior staff sit on the panel."
+ },
+ {
+  "qid": "gen-199",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Which unique codes does an electronic trading platform operator have to use so that each of its members can be told apart?",
+  "text": "[3] An ETP operator has to ensure that all documents, rules or regulations referred to in paragraph 6(a)(iv) above are freely available to its members. This implies that unique codes such as the Legal Entity Identifier (LEI) code are used by the ETP operator to distinguish each of its members."
+ },
+ {
+  "qid": "gen-318",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Under which schedule must a bank report the fee income it earns from lending government bonds?",
+  "text": "[4] Reserve Bank of India (Government Securities Lending) Directions, 2023\nThe fee income from lending government bonds is reported under Schedule 13."
+ },
+ {
+  "qid": "gen-85",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": false,
+  "question": "How frequently does the audit committee of an urban co-operative bank have to put up a note to its board on compliance with central bank instructions?",
+  "text": "The audit committee of an urban co-operative bank has to put up a note to its board at half-yearly intervals for a review of unclaimed gold/silver collateral. [3]"
+ },
+ {
+  "qid": "gen-56",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How much money must an entity have behind it before RBI will let it run a receivables exchange?",
+  "text": "The provided excerpts do not contain information regarding the amount of money an entity must have behind it before RBI will let it run a receivables exchange."
+ },
+ {
+  "qid": "gen-264",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How many chequebook pages must a payments bank give a customer free of cost annually?",
+  "text": "According to [3], a PB shall offer a Cheque book with minimum 25 cheque leaves per year to the customer, free of cost."
+ },
+ {
+  "qid": "gen-159",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "What minimum size of own funds lets a commercial bank offer credit cards independently?",
+  "text": "Banks with net worth of ₹100 crore and above are permitted to undertake credit card business either independently or in tie-up arrangement with other card issuing banks / NBFCs with the approval of their Boards. [1]"
+ },
+ {
+  "qid": "gen-140",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Above what amount must an all India financial institution take a fraud case to the police?",
+  "text": "[1] The AIFI shall immediately report the incidents of fraud to LEAs, subject to applicable laws, as indicated below5: Amount involved in the fraud LEA to whom complaint should be lodged Below ₹6 crore State / Union Territory (UT) Police ₹6 crore and above Central Bureau of Investigation (CBI)\n\nTherefore, an all India financial institution must take a fraud case to the Central Bureau of Investigation (CBI) if the amount involved in the fraud is above ₹6 crore. [1]"
+ },
+ {
+  "qid": "gen-369",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "By what date must a non-bank prepaid wallet firm file its complaints data with the regulator after each quarter ends?",
+  "text": "The provided excerpts do not contain any information regarding the filing date of complaints data for non-bank prepaid wallet firms with the regulator. [2]"
+ },
+ {
+  "qid": "dea-ucb-01",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "What interest rate applies to unclaimed deposits an urban co-operative bank transferred to the Fund from May 2021?",
+  "text": "[1] The interest rate applicable to unclaimed deposits transferred to the Fund from May 2021 is 3 percent."
+ },
+ {
+  "qid": "gen-12",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "When an all India financial institution buys a loan pool and can only check part of it borrower by borrower, what share of the risk must the seller keep?",
+  "text": "According to [3], when an AIFI buys a loan pool and can only check part of it borrower by borrower, the seller must keep a 20% risk weight for the loans."
+ },
+ {
+  "qid": "gen-26",
+  "group": "answerable",
+  "class": "refused",
+  "retrieved": true,
+  "question": "How far below its required liquidity holding can a local area bank fall before it must request a formal waiver from the Reserve Bank?",
+  "text": "I can't answer that from the retrieved sources. The draft answer contained material the sources do not support (figures not found in any retrieved source: 100 (percent)), so it has been withheld rather than shown."
+ },
+ {
+  "qid": "gen-350",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How often must a local area bank's board revisit the policy it has adopted for dealing with fraud?",
+  "text": "[5] The Reserve Bank of India (Local Area Banks – Resolution of Stressed Assets) Directions, 2025 (Updated as on July 1, 2026) state that a bank may undertake compromise settlements or technical write-offs in respect of accounts categorised as wilful defaulters or fraud without prejudice to the criminal proceeding underway against such borrowers. This implies that the policy on dealing with fraud does not have a specific revisit frequency mentioned, but it is subject to the board's discretion and the ongoing criminal proceedings."
+ },
+ {
+  "qid": "gen-240",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "What multiplier applies to the compounding sum when equity is issued to a foreign investor beyond the 180-day deadline without the central bank's clearance?",
+  "text": "[3] In case of paragraph 8 of Schedule I to FEMA 20/2000 RB contraventions, the compounding amount payable will be further graded as under: c. If the shares are not allotted and the amount is refunded after 180 days without the Bank’s permission: 1.75 times the amount calculated as per table above (subject to provisos at (i) & (ii) above)."
+ },
+ {
+  "qid": "gen-366",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How much is a currency chest branch charged the first time it is found not sorting notes on machines as required?",
+  "text": "[1] and [2] and [3] Master Direction – Scheme of Penalties for bank branches and Currency Chests for deficiency in rendering customer service to the members of public states that the first time a currency chest branch is found not sorting notes on machines as required, the penalty is ₹5,000/-.\n\nTherefore, the answer is [1], [2], and [3]."
+ },
+ {
+  "qid": "kyc-cb-01",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "Can a commercial bank turn down a customer's KYC updation request without properly considering it?",
+  "text": "No, a commercial bank cannot turn down a customer's KYC updation request without properly considering it. [1] It states that the bank shall have a policy approved by the Board detailing a robust due diligence process for managing requests to change the registered Mobile Number for Accounts opened in non-face-to-face mode. This implies that the bank must consider such requests."
+ },
+ {
+  "qid": "gen-360",
+  "group": "answerable",
+  "class": "answered",
+  "retrieved": true,
+  "question": "How many board members with banking or finance expertise must an urban co-operative bank have at a minimum?",
+  "text": "According to [3], the Special Committee of the Board for Monitoring and Follow-up of cases of Frauds (SCBMF) must have a minimum of three members of the Board, consisting of the Chief Executive Officer and two directors, i.e., directors with suitable banking experience or with relevant professional qualification in the fields of law, accountancy or finance. Therefore, an urban co-operative bank must have at least three board members with banking or finance expertise at a minimum.\n\n[3] 7. The Board shall review the Fraud Risk Management policy at least once in three years, or more frequently, as may be prescribed by the Board. 8. Special Committee of the Board for Monitoring and Follow-up of cases of Frauds: (1) The UCB shall constitute a Committee of the Board to be known as ‘Special Committee of the Board for Monitoring and Follow-up of cases of Frauds’ (SCBMF) with a minimum of three members of the Board, consisting of the Chief Executive Officer and two directors, i.e. directors with suitable banking experience or with relevant professional qualification in the fields of law, accountancy or finance. The Committee shall be headed by one of the directors."
+ }
+]

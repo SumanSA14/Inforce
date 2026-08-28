@@ -1,0 +1,55 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "inforce"
+version = "0.1.0"
+description = "Time-aware retrieval over Indian regulation: was this rule in force on date X?"
+readme = "README.md"
+license = { text = "MIT" }
+requires-python = ">=3.11"
+keywords = ["rag", "retrieval", "regulation", "bi-temporal", "rbi", "evaluation"]
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Topic :: Scientific/Engineering :: Information Analysis",
+]
+dependencies = [
+    # ingestion
+    "requests>=2.31",
+    "beautifulsoup4>=4.12",
+    "lxml>=5.0",          # the annex is 3.6 MB; the stdlib parser is far too slow
+    "pymupdf>=1.24",      # PDF fallback for title-only notification pages
+    # retrieval
+    "numpy>=1.26",
+    # demo
+    "fastapi>=0.110",
+    "uvicorn>=0.27",
+]
+
+[project.optional-dependencies]
+# LangGraph is only needed for `inforce agent` (M11). It pulls langchain-core,
+# so it stays optional rather than being imposed on anyone who just wants the
+# pipeline and the measurement. `agent.py` imports it lazily, so the module
+# still imports cleanly without it.
+agent = ["langgraph>=0.2"]
+dev = ["pytest>=8.0", "langgraph>=0.2"]
+
+[project.urls]
+Source = "https://github.com/sanjisuman/inforce"
+
+[project.scripts]
+inforce = "inforce.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+# The demo page is loaded from disk at request time, so it must ship with the
+# package — otherwise an installed copy serves a 404 while the repo works fine.
+[tool.setuptools.package-data]
+inforce = ["static/*.html"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
+pythonpath = ["src"]

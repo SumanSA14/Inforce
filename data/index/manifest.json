@@ -1,0 +1,8 @@
+{
+  "model": "nomic-embed-text",
+  "dims": 768,
+  "rows": 97037,
+  "chunk_chars": 1000,
+  "overlap_chars": 150,
+  "normalised": true
+}

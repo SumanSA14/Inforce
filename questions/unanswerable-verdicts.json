@@ -1,0 +1,458 @@
+[
+ {
+  "qid": "unans-scope-01",
+  "verdict": "unanswerable",
+  "reason": "No chunk gives an anchor-investor lock-in period. The only lock-in durations present are for bank shareholders (chunk 2: five years from date of completion of acquisition of bank equity) and chunk 4 merely references the ICDR promoter lock-in without stating any duration, and only to say pledged promoter shares stay locked-in for the remaining period. Nothing states the post-allotment lock-in for anchor investors.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-02",
+  "verdict": "unanswerable",
+  "reason": "Chunks 1, 2, 4 (Commercial Banks - Undertaking of Financial Services) and 3, 5 (SPDs) set PMS conditions - prior approval, no guaranteed return, fee independent of return, minimum tenor of one year per placement, client-wise records, segregation. A minimum holding PERIOD is given; no minimum client investment amount / ticket size appears anywhere. Chunk 3 defers to the SEBI (Portfolio Managers) Regulations without reproducing any threshold.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-03",
+  "verdict": "unanswerable",
+  "reason": "All AIF chunks (2, 3, 7) prescribe CEILINGS on a regulated entity's contribution to an AIF corpus - not more than 10 per cent individually, 20 per cent for all REs aggregate, 5 per cent trigger for provisioning on downstream debtor exposure - plus subordinated-unit capital deduction (chunk 4) and Category III prohibitions (chunk 1). No chunk states any minimum continuing interest a sponsor must maintain in a Category II AIF scheme.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-04",
+  "verdict": "unanswerable",
+  "reason": "None of the eight chunks concerns insider trading or trading-window closure. The nearest timing rules are unrelated: two months' notice for branch closure (chunks 3, 5), monthly/quarterly investment reviews (chunk 6), 10 working days mandatory leave (chunk 8). No pre-results trading window closure period appears.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-05",
+  "verdict": "unanswerable",
+  "reason": "REIT material is limited to a bank's exposure caps - chunk 3 caps a bank at 10 per cent of a REIT/InvIT unit capital within the 20 per cent of net worth ceiling; chunk 1 gives the 40/20 per cent capital-market exposure limits. Nothing states any obligation on the REIT itself, and no distribution percentage of net distributable cash flow appears in any chunk.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-06",
+  "verdict": "unanswerable",
+  "reason": "No chunk gives a dematerialisation confirmation timeline. Chunk 2 only sets eligibility for a UCB to offer online trading (including being SEBI-registered as a DP). The other timelines retrieved are unrelated: three working days for nomination acknowledgement (chunk 1), 15 calendar days for deceased-depositor claims (chunk 6), 15 days for informing RBI of NDS-OM changes (chunk 7).",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-07",
+  "verdict": "unanswerable",
+  "reason": "The per-day compensation figures retrieved are for entirely different failures: Rs 5,000 per day for delayed release of property documents or pledged collateral (chunks 1-6, 8) and credit-information correction delay compensation (chunk 7). No chunk addresses SCSB/ASBA unblocking of public-issue application money or any compensation for delay in unblocking.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-08",
+  "verdict": "unanswerable",
+  "reason": "The ECAI eligibility chunks (1, 2, 3, 6) require only that a rating be publicly available, in force per the agency's monthly bulletin, and reviewed at least once in the previous 15 months - a review frequency and a disclosure-quality condition, not a deadline for the agency to publish a press release after a rating action. Chunk 4's one-month-old rating letter rule is an investment-eligibility condition on the bank, not a CRA publication timeline.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-09",
+  "verdict": "unanswerable",
+  "reason": "Closest call in the range. Chunks 1 and 4 (Commercial Banks - Capital Charge for Credit Risk Directions, para 31) do supply a six-month INC threshold, but only as the bank's own risk-weight escalation: 100% floor during the first six months from INC classification, 150% if INC continues beyond six months, and reversion to normal mapping on withdrawal of the INC rating by the ECRA. That is a capital-treatment rule addressed to banks; nothing in any chunk states an obligation on the rating agency to migrate/downgrade the rating to non-investment grade after any period. A 150% risk weight is not a rating action, and no chunk mentions forced migration to non-investment grade at all. The specific asked-for fact (the CRA's own review/downgrade deadline) is absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-10",
+  "verdict": "unanswerable",
+  "reason": "No chunk states any client-level position limit in commodity futures. Chunk 5 (Commercial Banks - Undertaking of Financial Services, para 66) only allows a bank to become a Professional Clearing Member of the commodity derivatives segment subject to prudential criteria; chunks 1, 3 and 4 are about currency-futures membership/participation eligibility; chunk 2 (Master Direction - Foreign Investment) explicitly defers domestic commodity derivative participation to 'framework specified by the SEBI'; chunks 6 and 8 are about banks creating hedging awareness among agri-borrowers. No numeric position limit, agricultural or otherwise, appears anywhere.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-11",
+  "verdict": "unanswerable",
+  "reason": "Every insurance-JV chunk gives conditions on the bank/NBFC/HFC/CIC taking the stake, never the insurer's solvency requirement: chunk 1 (net worth Rs 1000 crore, Rs 500 crore post-investment, CCB-inclusive capital, net NPA <= 3%, three years of profit), chunk 6 (HFC: NOF Rs 500 crore, CRAR 12%, net NPA 3%), chunks 2-4 (50% equity cap, IRDAI-approved holding for CICs). Chunk 8 is bank consolidated capital adequacy and expressly excludes insurance subsidiaries. No solvency ratio or control level of solvency for the insurer is stated in any chunk.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-12",
+  "verdict": "unanswerable",
+  "reason": "No chunk gives a free-look period. The two Master Direction - Insurance chunks (1 and 4) are FEMA remittance rules on foreign-currency life policies and claim settlement to non-residents. Chunk 2 has a 14-day window, but it is the RRB current/savings account switch remedy, not policy cancellation; chunk 7 has a 30-day notice for changed debit-card terms. Nothing addresses returning a life policy or refund of premium.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-13",
+  "verdict": "unanswerable",
+  "reason": "No chunk states the number of life insurers a corporate agent may represent. Chunks 1, 6 and 7 only require compliance with IRDAI regulations for acting as a 'composite corporate agent'; chunk 5 requires compliance with the IRDA (Licensing of Corporate Agents) Regulations and notes group entities may do either broking or corporate agency; chunks 3, 4 and 7 give bank-side eligibility (net worth, NPA, CRAR). The open-architecture count per line of business is never given.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-14",
+  "verdict": "unanswerable",
+  "reason": "The evidence answers a different question: bank deposit-claim settlement, i.e. 15 calendar days from receipt of all documents for a deceased customer's deposit account, with compensation at not less than Bank Rate + 4% p.a. for delay (chunks 2-8), plus Rs 5,000/day for locker claims and a bills-collection interest rule (chunk 1). None of this binds an insurer, and no chunk mentions insurance claim settlement turnaround or penal interest on an insurer. The asked-for insurer TAT and rate are absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-15",
+  "verdict": "unanswerable",
+  "reason": "No chunk mentions compulsory annuitisation or any exit/withdrawal proportion. Chunk 1 (NBFC - Undertaking of Financial Services, paras 53-55) only covers which NBFCs may act as PoP and T+0 remittance of subscriptions; chunk 4 concerns agency commission on pension payment transactions; the rest are asset-classification, capital-adequacy, PPI and account-switching material. Subscriber-level NPS exit terms appear nowhere.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-16",
+  "verdict": "unanswerable",
+  "reason": "The PoP chunks give only eligibility and approval: chunk 1 (Base Layer NBFCs barred; others permitted after PFRDA registration subject to CRAR/profit, subscriptions deposited T+0) and chunk 7 (Scheduled UCB must be Financially Sound and Well Managed). No fee schedule appears; the charge-related chunks 5 and 6 are about penal charges on loans, and chunks 2-4 and 8 are KYC small-account limits, CGTMSE coverage and unauthorised-transaction liability. No percentage, floor or cap on PoP contribution charges is present.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-17",
+  "verdict": "unanswerable",
+  "reason": "Ranks 1-4 (Responsible Business Conduct Directions for Commercial Banks / RCBs / SFBs / RRBs, section 'Deduction of Tax Deducted at Source') are the only on-point chunks and they state only two procedural duties: no TDS where Form 15-G/15-H is submitted, and issue Form 16A within the Income Tax Rules timeframe. No monetary threshold and no rate appears anywhere in the eight chunks; ranks 5-8 are deposit-interest/ALM material (premature-withdrawal interest, 1% staff additional interest) unrelated to withholding. A regex sweep for TDS thresholds/rates across all eight chunks returned only the words 'TDS'/'tax at source'.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-18",
+  "verdict": "unanswerable",
+  "reason": "Ranks 1-3 repeat the same Form 15-G/15-H and Form 16A procedural text; rank 4 (Local Area Banks - Financial Statements) mentions TDS only as a balance-sheet line item ('Tax paid in advance / tax deducted at source'); ranks 5, 7, 8 are capital-adequacy deduction chunks whose '10 per cent' / '15 per cent' figures are CET1 threshold-deduction limits, not withholding rates. Nothing states an aggregate cash-withdrawal threshold or a withholding rate, and no chunk mentions cash withdrawal at all.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-19",
+  "verdict": "unanswerable",
+  "reason": "Ranks 1-4 are again the Form 15-G/15-H TDS-procedure passages; rank 5 (SFB IRACP) is about NPA provisions not being eligible for tax deduction; ranks 6-7 are DICGC ₹5 lakh insurance illustrations; rank 8 is an NBFC deposit-register record-keeping rule. No chunk mentions section 80C, tax-saving fixed deposits, a five-year lock-in deposit scheme, or any deduction ceiling. The drafter's claim holds.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-20",
+  "verdict": "unanswerable",
+  "reason": "The chunks confirm that charges must be registered with the Registrar of Companies (rank 1 and rank 8, NBFC Public Deposits Directions, citing s.125 of the Companies Act 1956 / the corresponding 2013 provision) but never state the period allowed for registration. Rank 4's 'Creation of charge - Prompt / Delay upto 2 months / Delay over 2 months' is a scoring band in a borrower due-diligence rating grid, not a statutory registration deadline, and it is expressed in months not days. Ranks 3 and 7 list 'Registration of charges with Registrar of Companies' as an audit checklist line with no timeline; rank 6 concerns CERSAI filing, a different register. The specific number of days is absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-21",
+  "verdict": "unanswerable",
+  "reason": "Not one of the eight chunks mentions CSR, corporate social responsibility, or an average-net-profit spend obligation - a regex sweep for 'CSR|corporate social|social responsibility|two per cent|average net profit' across all eight returned zero hits. The retrieved material is CIC owned-fund computation (rank 1, which uses 'average dividend paid for the last three financial years' - a different quantity entirely), investment-portfolio prudential caps (ranks 2, 4, 6), ECBA/LTSB eligibility criteria referencing 'net profits during the preceding two financial years' (ranks 3, 5, 7), and a specific-risk capital charge table (rank 8). Neither the percentage nor the averaging period is present.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-scope-22",
+  "verdict": "unanswerable",
+  "reason": "All stamp-duty mentions (ranks 1, 2, 3, 8) are the identical LTV-computation rule - banks/HFCs shall NOT include stamp duty, registration and documentation charges in the cost of the housing property, with an exemption below ₹10 lakh. That tells you how to treat stamp duty in an LTV calculation, not what duty is payable on a mortgage deed. Ranks 5-6 are 30-day property-document-release timelines, rank 4 is a Deed of Covenants execution clause, rank 7 is disbursement conditions. No rate schedule, no state-wise duty, nothing on the quantum of stamp duty.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-01",
+  "verdict": "unanswerable",
+  "reason": "The word 'payment' does not occur in any of the eight chunks (verified by regex across all evidence text for this item). The PSL Master Directions chunks cover ANBC computation (ranks 1, 8), district weighting (rank 2), the CEOBSE footnote and the lead-in sentence to the target table at para 7.1 (rank 3, table itself not included), the superseded 2020 SMF phase-in percentages and the 13.78% non-corporate-farmer target (rank 5), the index (rank 6), and PSLC counting rules (rank 7). No chunk states a PSL target applicable to payments banks, and none contains the applicability list that would let the reader confirm payments banks are outside scope.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-02",
+  "verdict": "unanswerable",
+  "reason": "The Payments Banks Capital Adequacy chunks give assorted risk weights - 0% sovereign / 20% State Government guaranteed (rank 8), 150/100/50% on the unsecured portion of NPAs by provision cover (rank 2), 125% and 250% on NBFC and other financial-entity capital instruments (ranks 6, 7), 100% on subordinated debt of other banks (rank 5), 20% on staff loans covered by superannuation or mortgage (rank 7) - but no risk weight for unsecured retail loans or a regulatory retail category. Rank 2's '150 per cent' applies to non-performing assets net of specific provisions, not to standard unsecured retail exposures, so it does not answer the question. Rank 4 notes the PB Capital Adequacy Directions lay down four retail-exposure criteria, which slightly undercuts the drafter's reasoning, but the asked-for percentage is still absent from the evidence.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-03",
+  "verdict": "unanswerable",
+  "reason": "None of the eight chunks states any credit-card closure timeline or per-day delay penalty. Chunk 3 (PB - Responsible Business Conduct) only lists 'request for issue of cheque book/ credit card/ debit card' as an example of a non-financial transaction; chunk 5 (PPI Master Directions) says a PPI issuer 'shall give an option to close the PPI at any time' with no deadline and no penalty; chunk 2 (PB - Miscellaneous) gives a three-month conversion/closure window for accounts found ineligible, a different subject entirely. The seven-working-day rule and the daily penalty amount are absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-04",
+  "verdict": "unanswerable",
+  "reason": "All eight chunks are from the Payments Banks capital-adequacy / shareholding directions and cover risk weights (CCP exposures, staff loans, NBFC capital instruments), regulatory-capital deductions, and the CRAR/Tier 1 minima (chunk 8: minimum Tier 1 of 7.5 per cent and CRAR of 15 per cent of RWAs). No chunk prescribes any single-borrower or group-borrower exposure ceiling as a share of tier 1 capital.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-05",
+  "verdict": "unanswerable",
+  "reason": "Six of the eight chunks are currency-chest penalty schedules (Scheme of Penalties, penal interest for wrong reporting of chest transactions) and chunk 7 is the PB CRR/SLR penalty provision (Section 42 fines of up to Rs 500 plus Rs 500 per day for deposits retained in contravention of a prohibition) - none of which is a premature-withdrawal penalty on a term deposit. No chunk contains any interest-rate-on-deposits rule, premature-withdrawal penalty, or the two-lakh balance cap that would settle the question.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-06",
+  "verdict": "unanswerable",
+  "reason": "No chunk gives any co-lending retention share. Chunk 3 (superseded 2020 PSL Master Directions) is the closest: it says co-lending by banks and NBFCs to priority sector is 'not applicable to RRBs, UCBs, SFBs and LABs' and that all SCBs excluding those may co-lend with registered NBFCs, then defers to a separate circular for 'detailed guidelines' - it never states the percentage each lender must keep on its books, nor addresses payments banks. The remaining chunks are on-lending caps, PB debit-card co-branding, and PB voluntary amalgamation.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-07",
+  "verdict": "unanswerable",
+  "reason": "Chunk 5 (SFB Licensing Guidelines 2025) states plainly that 'small finance banks will not be allowed to set up any subsidiaries', which confirms the drafter's premise rather than supplying an approval route; the prior-approval sentence in that same chunk concerns specialised activities held in a separate entity under an NOFHC, not an SFB subsidiary. Chunk 1 (SFB - Undertaking of Financial Services, Chapter IV.A) prescribes conditions for equipment leasing and hire purchase 'undertaken departmentally', i.e. inside the bank, not through a subsidiary. No approval process, application route or NOF requirement for such a subsidiary appears anywhere in the eight chunks.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-08",
+  "verdict": "unanswerable",
+  "reason": "The chunks cover SFB capital-adequacy topics (concentration risk in Pillar 2, securitisation capital charges, the 15 per cent CRAR and 7.5 per cent Tier 1 minima) and, at chunk 7, intra-group transaction and exposure limits under the SFB Concentration Risk Management Directions. None describes consolidation of a subsidiary's exposures for group capital adequacy, and none addresses an SFB holding an NBFC subsidiary. The specific consolidation treatment asked for is absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-09",
+  "verdict": "unanswerable",
+  "reason": "The four Credit Information Companies Directions chunks (1, 2, 4, 6, 7) are about credit-information collection and reporting formats - SHG member data fields, submission file header segments, a field list that merely names 'Asset Classification' and 'Number of Days Past Due' as reportable fields. No chunk states any income-recognition/asset-classification rule, no 90-day NPA trigger, and nothing about a CIC holding loans to member institutions. Chunk 3 (FEMA reporting) mentions NPA only in a declaration form.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-10",
+  "verdict": "unanswerable",
+  "reason": "No chunk addresses deposit acceptance by a credit information company. Chunk 1 does give a term-deposit tenor cap of 'not exceeding 6 months', but that is an AD Category-I bank facility for a BO/LO/PO of a person resident outside India under FEMA, not a CIC. The two CIC chunks (7 and the reporting-format material) are credit-reporting field layouts. No minimum or maximum deposit tenor for a CIC is present.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-11",
+  "verdict": "unanswerable",
+  "reason": "No chunk mentions recovery agents, agent due diligence, contact hours or borrower notification at all. The CIC Directions chunks (ranks 1, 3, 4, 5, 8) cover SHG member credit reporting, consent-retention limits, CIR content and a Consumer Protection Committee for complaint redressal; the Internal Ombudsman chunks (6, 7) only cite Section 18 of the CIC (Regulation) Act as an exclusion from ombudsman scope. The specific pre-engagement obligation asked for is absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-12",
+  "verdict": "unanswerable",
+  "reason": "No NOF multiple for deposits appears anywhere in the evidence. Rank 2 supplies only the flat prohibition ('23. An ARC shall not raise monies by way of deposit.'), which supports rejecting the premise rather than supplying a ceiling. The other NOF-adjacent chunks (rank 6 on NOF composition, rank 4 on the 15%/2.5% SR investment floor, rank 5 on the 26% equity cap) concern different limits entirely.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-13",
+  "verdict": "unanswerable",
+  "reason": "The only ARC disclosure regimes retrieved are for securitisation receipts and the balance sheet: rank 2 lists offer-document disclosures for an ARC 'intending to issue SRs', and rank 3 lists balance-sheet schedules. Neither is an advertisement inviting deposits, and rank 5 again carries only the prohibition ('An ARC shall not raise monies by way of deposit'). No advertisement-content, application-form or copy-to-RBI requirement for deposits appears.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-14",
+  "verdict": "unanswerable",
+  "reason": "Closest of the set, but the geographic element - the whole substance of the question - is never addressed. Rank 6 gives the generic rule that a bank must obtain prior authorisation of DoR, CO, RBI for all categories of Banking Outlets via the ABOEP/Pravaah, and rank 4 gives Form VI under Section 23 BR Act; none of the LAB Branch Authorisation chunks states the area-of-operation limit, mentions licensed districts, or prescribes any route (or bar) for a branch outside them. Rank 3's passing 'mobile branches in all Centres in their area of operation' implies a limit but supplies no approval rule for crossing it.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-15",
+  "verdict": "unanswerable",
+  "reason": "Nothing on IFSC Banking Units as a bank licence category. The IFSC/GIFT City chunks (ranks 1, 2, 6) are FEMA deposit-account and LRS provisions about SNRR/FCA accounts of IFSC units and remittances to IFSCs; the LAB chunks (ranks 4, 8) are the URC 25% banking-outlet norm and statutory-auditor eligibility declarations. No IBU eligibility condition or parent-bank minimum capital for a unit appears for any bank, let alone an LAB.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-16",
+  "verdict": "unanswerable",
+  "reason": "All eight chunks are currency-chest penal-provision/reporting Master Directions. They repeatedly give the minimum deposit into/withdrawal from a chest (Rs 1,00,000, thereafter multiples of Rs 50,000) - a transaction-size rule, not a minimum chest balance - plus reporting deadlines, penal interest and what cash is eligible for inclusion in chest balances. No minimum chest balance figure, no chest infrastructure eligibility norm, and no mention of local area banks or area of operation.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-17",
+  "verdict": "unanswerable",
+  "reason": "The liquid-asset percentages retrieved are expressly scoped to deposit-takers, so they do not answer the question as posed: rank 3 is 'Every NBFC-D shall invest ... not less than 15 per cent of the public deposit', rank 1 is the same paragraph's proviso (10% in approved securities, aggregate not less than 15%), and rank 8 is the 8%/10% rule for HFCs accepting public deposits. Rank 4 points the other way - 'For an NBFC not holding public deposit, all investments in securities shall be categorized as non-mandatory' - confirming no mandatory share exists for an NBFC-ND. No percentage is prescribed for a non-deposit-taking NBFC.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-18",
+  "verdict": "actually_answerable",
+  "reason": "Rank 5 supplies the exact number, and supplies it unqualified as to entity class: 'G. Ceiling on the rate of interest 19. No NBFC shall invite or accept or renew public deposit at a rate of interest exceeding twelve and half per cent per annum.' It says 'No NBFC', not 'No NBFC-D', and nothing in these eight chunks states that a non-deposit-taking NBFC may not accept public deposits or that these Directions apply only to NBFC-Ds (the NBFC-D definition chunk was retrieved for a different item, not this one). Contrast items 12 and 13, where the ARC evidence carried the explicit prohibition; here the evidence gives a rate ceiling reading on any NBFC, so a system answering '12.5% per annum' is supported by the retrieved text and would be wrongly penalised under an unanswerable label.",
+  "answering_chunk": 5
+ },
+ {
+  "qid": "unans-power-19",
+  "verdict": "unanswerable",
+  "reason": "Chunks cover advertisement content, credit rating, deposit period, brokerage and premature-repayment rules for deposit-taking NBFCs. The only supervisory-returns chunk (rank 3) lists DNBS10 SAC (yearly, all NBFCs) and DNBS11 for CICs — no return on public deposits, no periodicity for one, and nothing stating what an NBFC-ND must file on deposits. The specific frequency asked for is absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-power-20",
+  "verdict": "unanswerable",
+  "reason": "Chunks give lock-in (3 months), premature-repayment discretion, problem-NBFC ₹10,000 limits, interest on overdue deposits, and a 14-day pre-maturity intimation duty (rank 6) — but that is notice before maturity, not a repayment deadline after it. No 'within X days of maturity must repay' rule appears at all, for any NBFC category.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-02",
+  "verdict": "unanswerable",
+  "reason": "Rank 1/2/7/8 (RBC Directions para 351 and notes) require penal charges to be reasonable, non-capitalised, levied only on the amount in default under a Board-approved policy — no percentage or ceiling. Rank 6 is minimum-balance penal charges (proportionate to shortfall, still uncapped). Rank 4/5 do say 'no stipulation regarding the maximum amount of penal interest', but that is currency-chest reporting, a different regime, so it does not supply the retail-EMI cap asked for.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-03",
+  "verdict": "unanswerable",
+  "reason": "Rank 3 (UCB Interest Rate on Deposits, paras 20-21) prescribes only that there be a Board-approved comprehensive policy on premature-withdrawal penalties and that components be disclosed. Ranks 1/2/5/6/8 concern deceased-depositor cases where no penalty is charged, and rank 7 covers NRE/FCNR conversion. No penalty rate or deduction quantum anywhere.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-04",
+  "verdict": "unanswerable",
+  "reason": "Rank 3 gives para 13 verbatim — a bank 'may, at its discretion, formulate term deposit schemes specifically for resident Indian senior citizens, offering higher and fixed rates of interest' — with no differential quantified, and rank 1 (para 14, retired staff who are senior citizens) likewise names no figure. No basis-point spread over the card rate appears in any chunk.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-05",
+  "verdict": "unanswerable",
+  "reason": "Rank 5 lists annual membership fees among the MITC items that must be disclosed, and other chunks cover billing, disputes and free-of-charge cards. Nothing states a maximum or ceiling on the annual fee; the chunks regulate disclosure only.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-06",
+  "verdict": "unanswerable",
+  "reason": "Chunks give the ₹-adjacent locker rules — liability capped at one hundred times the prevailing annual rent (ranks 1/4/6/7), a term deposit covering three years' rent (ranks 2/3/8), proportionate refund of advance rent — but never the rent amount itself, and no size- or location-based rent schedule appears.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-07",
+  "verdict": "actually_answerable",
+  "reason": "Rank 1 (Commercial Banks – Credit Facilities Directions 2025, para 11(1)) restates the question almost verbatim and supplies the rule: the cooling-off period is determined by the bank's credit policy 'subject to the period so determined not being less than one day'. Ranks 2-8 repeat the same one-day floor for NBFCs, SFBs, RRBs, AIFIs, RCBs, UCBs and LABs. A prescribed minimum number of days is present, contradicting the drafter's claim that no number is prescribed.",
+  "answering_chunk": 1
+ },
+ {
+  "qid": "unans-absent-07",
+  "verdict": "unanswerable",
+  "reason": "Ranks 4-5 (Commercial Banks / Payments Banks Branch Authorisation, para 80/46) give only the governance rule: 'A bank shall pay reasonable commission / fee to the BC, the rate and quantum of which may be reviewed periodically', plus structure requirements (fixed+variable, deferral/clawback, no direct customer fee). The Interest Rate Directions chunks (ranks 1,2,3,6,7,8) merely carve BC/BF remuneration out of the deposit-brokerage prohibition. No rate, slab or ceiling appears anywhere; the only rupee figure in the evidence is the Rs 250 inexpensive-gift cap for depositors, which is unrelated to BC commission.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-08",
+  "verdict": "unanswerable",
+  "reason": "Rank 4 (Responsible Business Conduct, para 159) requires only that the bank 'inform its customers in a transparent manner, the requirement of maintaining minimum balance'; ranks 1-2 regulate the penal charge for non-maintenance (notice, proportionality, no negative balance); rank 3 says a BSBD account must have no minimum balance. The only numeric chunks (ranks 5,7) are capital-adequacy CCB/CET1 percentages, and rank 8 is PPI escrow. No rupee figure for an ordinary savings account exists in the evidence.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-09",
+  "verdict": "unanswerable",
+  "reason": "Every locker chunk (ranks 1-8, across SFB/CB/UCB/RCB/RRB/PB Responsible Business Conduct) states the same outcome rule: the bank 'may cover the entry and exit of the strong room and the common areas of operation under CCTV camera and preserve its recording for a period of not less than 180 days'. The 180-day retention period is the only number; no camera count, placement or specification is prescribed.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-10",
+  "verdict": "unanswerable",
+  "reason": "All eight chunks reproduce the same 'Hiring of Employees and Employee training' paragraph (e.g. rank 2, RCB KYC para 78): an adequate screening mechanism, a Know Your Employee policy, and 'an on-going employee training programme so that the members of staff are adequately trained', with differentiated focus for frontline vs compliance staff. No hours, no annual frequency, no per-employee quantum appears.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-11",
+  "verdict": "unanswerable",
+  "reason": "Ranks 1-2 (Master Direction on Incentives/Penalties) penalise the outcome only - cash-out exceeding ten hours in a month attracts a flat Rs 10,000 per ATM penalty, with monthly downtime reporting. Ranks 4 and 7 (Branch Authorisation) say only that the bank 'shall make adequate stand-by arrangements for meeting the cash requirements of the ATM' and shall load only sorted/examined notes. No minimum loading amount or per-machine cash balance is given anywhere.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-12",
+  "verdict": "actually_answerable",
+  "reason": "Rank 2 (Commercial Banks Responsible Business Conduct, para 22, 'Banking hours / working days of bank branches') states: 'A bank shall normally function for public transactions at least for four hours on weekdays and two hours on Saturdays'. Rank 3 (LAB, para 7) and rank 6 (SFB) repeat it verbatim, and rank 8 (SFB Branch Authorisation) sets a minimum of four hours per day for at least five days a week for a Banking Outlet. The drafter's quoted flexibility clause (rank 1/7, para 26) applies to rural branches and is expressly 'subject to the instructions given above', i.e. subject to the four-hour floor. The asked-for minimum is squarely present.",
+  "answering_chunk": 2
+ },
+ {
+  "qid": "unans-absent-13",
+  "verdict": "unanswerable",
+  "reason": "Rank 3 (Internal Audit Function Directions, para 7) prescribes only a minimum period of service for internal audit staff, not a headcount. The staffing tables at ranks 1, 4 and 8 (Statutory Audit Directions) are eligibility norms for the external statutory audit FIRM - minimum full-time partners, FCA partners, CISA-qualified partners and professional staff - keyed to the bank's asset size, not to the bank's own internal audit department or its branch network. Ranks 5-7 concern staffing the Internal Ombudsman's office ('such number of its officers and staff as is considered necessary'). No internal-audit headcount, ratio or per-branch norm is present.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-14",
+  "verdict": "unanswerable",
+  "reason": "Rank 8 (UCB Cybersecurity/Technology Directions, para 175) is the only CISO chunk and specifies only 'a sufficiently senior level official' with defined responsibilities - no years of experience. The numeric experience requirements in the evidence belong to other roles: CFO and CTO fifteen years (ranks 1-5, Governance Directions) and Internal Ombudsman minimum seven years (ranks 6-7). Nothing states a required tenure in information security for a CISO.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-15",
+  "verdict": "unanswerable",
+  "reason": "Chunks 1, 4 and 7 (PB/SFB Governance Directions) state only that the CRO 'shall be appointed for a fixed tenure with the approval of the Board' plus premature-removal and reporting safeguards - no minimum number of years. The 'minimum fixed tenure of not less than three years' in chunks 5, 6 and 8 belongs to the Chief Compliance Officer under the Compliance Function Directions, a different officer, and chunk 2's 'within six months' is a deadline to appoint a CRO, not a tenure. Drafter's claim holds.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-16",
+  "verdict": "unanswerable",
+  "reason": "None of the eight chunks concerns cheque collection at all. They cover KYC small accounts (1), unauthorised electronic transaction shadow-reversal within 10 working days and 90-day complaint resolution (2, 4, 5, 8), collection-account remittance within two working days for borrower funds (3), ALM buckets (6) and NPA definitions (7). No outstation cheque credit timeframe appears anywhere.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-17",
+  "verdict": "unanswerable",
+  "reason": "Chunks 1, 2 and 7 (Counterfeit Notes MDs) require currency chest branches to be 'equipped with verification, processing and sorting machines' used to 'optimum capacity' with no count; chunks 3, 5, 6 penalise non-utilisation of installed NSMs without prescribing a number. The nearest number - 'at least one counting machine (with dual display facility) for public use at the counter' - is a counting machine at the public counter, advisory ('shall also consider'), not a required count of note sorting machines for a currency chest branch.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-18",
+  "verdict": "unanswerable",
+  "reason": "Chunks 1, 3 and 5 are the UCB Declaration of Dividends Directions themselves and contain only eligibility conditions (regulatory capital compliance, NNPA below five per cent, Regional Office route where NNPA is under ten per cent, Board consideration of capital position). No maximum dividend rate or payout ratio appears in any chunk; the remaining chunks concern nominal-member loan ceilings, credit card limits, membership norms and investment valuation.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-19",
+  "verdict": "unanswerable",
+  "reason": "Chunk 2 (PA Master Direction) only says a PA 'shall ensure that the extant instructions with regard to Merchant Discount Rate (MDR) are followed' - it states no rate. No MDR percentage or ceiling appears in any of the eight chunks; the rest are RRB merchant-acquiring eligibility norms, credit card EMI/credit-limit conduct rules, acquiring-bank due diligence and digital payment security controls.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-absent-20",
+  "verdict": "unanswerable",
+  "reason": "Chunks 2 and 4 give the MD&CEO/WTD rule as only that 'the fixed portion of compensation is reasonable, taking into account all relevant factors including adherence to statutory requirements and industry practice' - no ceiling. The one figure present, the ₹30 lakh per annum cap in chunk 1, is expressly for a Non-Executive Director other than the Chair, not the MD&CEO; chunks 5 and 6 are only the Form B / Annex V remuneration disclosure formats.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-01",
+  "verdict": "unanswerable",
+  "reason": "No chunk mentions expected credit loss, a day-one transitional adjustment, a CET1 add-back schedule, or PD/LGD floors. The SFB chunks cover CVA/prudent valuation, CET1 deductions, cash flow hedge reserve, disclosure templates, concentration limits, licensing capital and stressed-asset provisioning; chunk 6 is Primary Dealer guidelines where 'PD' means Primary Dealer, not probability of default.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-02",
+  "verdict": "unanswerable",
+  "reason": "Chunk 1 says BIA 'shall be replaced by the new Standardised Approach ... with coming into effect of these Directions' without naming a date, and chunk 8 states outright that 'the implementation dates for these guidelines, however, have not yet been notified by RBI'. Chunks 2, 6 and 7 confirm BIA remains in force in the interim and that banks are merely 'encouraged to be in readiness'. The evidence establishes that no cut-over date exists in the corpus, so the asked-for date is absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-03",
+  "verdict": "unanswerable",
+  "reason": "All eight chunks (ranks 1-8, the Commercial Banks / SFB / RRB / Payments Banks / LAB Branch Authorisation Directions, 2025) repeat the same Table 1 keyed to 'Population (as per 2011 Census)' and the 25% URC opening norm. No chunk mentions a later census, an effective date for re-classification, or any grandfathering/transition treatment for outlets whose centre changes tier or loses URC status. The drafter's claim checks out.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-04",
+  "verdict": "unanswerable",
+  "reason": "Ranks 1-3 give exactly the sentence the question is premised on ('allocation ... shall be based on the official Indian green taxonomy. Pending finalization of the taxonomy, as an interim measure ...') across the SFB, Commercial Banks and NBFC climate directions, plus FF/external-review/temporary-parking rules. Nothing states a re-mapping deadline once the taxonomy is notified, nor any grandfathering or treatment of already-allocated projects that fall outside it.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-05",
+  "verdict": "unanswerable",
+  "reason": "The Climate Finance chunks (ranks 1, 2, 3, 5, 6) cover only green-deposit matters: external review of the Financing Framework, the third-party verification/assurance report contents (para 16), impact-assessment metrics, and the annual Board review report (paras 18-20), with rank 3 deferring annual-statement disclosure to the Financial Statements Directions. There is no entity-wide climate disclosure requirement across governance/strategy/risk management/metrics-and-targets, no scenario-analysis requirement, and no FY2027-28 phase-in or assurance mandate for such disclosures. Ranks 4, 7, 8 (ECL model monitoring, cyber framework, Governance Directions) are off-target.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-06",
+  "verdict": "unanswerable",
+  "reason": "No chunk supplies payments bank licensing terms. Ranks 1-4 are the Payments Banks (Acquisition and Holding of Shares or Voting Rights) Directions, 2025: shareholding ceilings, 'No maximum shareholding limit for promoters is prescribed', and a share-acquisition lock-in (5 years for 10%+ holders; 40% of paid-up for 40%+ holders) - a partial overlap with the lock-in sub-question, but framed as an acquisition rule, not a licensing promoter lock-in. Minimum paid-up voting equity capital, minimum promoter contribution and whether an on-tap window is open are all absent (rank 3's Rs 500 crore net worth is a different trigger; rank 6's on-tap basis is authorisation to operate a payment system under the PSS Act, not a bank licence). Ranks 5, 7, 8 are unrelated.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-07",
+  "verdict": "unanswerable",
+  "reason": "No chunk mentions a wholesale and long-term finance bank category at all. Ranks 1, 2, 3, 5, 8 are the NBFC Scale Based Regulation Directions (NBFC-IFC definition, layer thresholds of Rs 1,000 crore / Rs 1,00,000 crore, infrastructure-loan definition), rank 4 is NBFC public-deposit definitions, ranks 6-7 are ALM and concentration norms. No minimum net worth for a WLTF licence and no floor on single-depositor deposit size appears anywhere.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-08",
+  "verdict": "unanswerable",
+  "reason": "Ranks 1-4 confirm the premise only: CBDC appears as one permitted digital delivery channel alongside UPI/NEFT/RTGS, used 'after obtaining explicit consent of the account holder', in the Commercial Banks / RRB / SFB / Rural Co-op KCC Directions, 2026. Ranks 5-8 give the January 01, 2027 applicability date of the KCC Directions themselves, not a CBDC mandate date. No e-rupee wallet holding limit, no date on which CBDC disbursal becomes mandatory, and no CBDC-specific reporting requirement appears.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-09",
+  "verdict": "unanswerable",
+  "reason": "Every chunk is about conventional quantitative model governance in unrelated domains: IRRBB model validation (ranks 1, 6, from Forthcoming Instructions), IRR/ALM periodic model validation by independent audit (ranks 2, 3, 7), ECL and third-party model validation (rank 4), Ind AS governance (rank 5), ICAAP review (rank 8). None mentions artificial intelligence or generative AI, none imposes a board-approved AI policy, AI-specific independent validation, customer disclosure for AI use, or any compliance deadline for existing deployments.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-10",
+  "verdict": "unanswerable",
+  "reason": "Ranks 1-4 give the mechanism and thresholds (125% where per capita PSL is below Rs 9,000; 90% where above Rs 42,000) and state explicitly that 'The list of both categories of districts is given in Annexes IA and IB and will be valid up to FY 2026-27, subject to a review thereafter'. Rank 6 lists the annex headings but no district names. No chunk contains any district list, and none covers FY 2027-28 - so the specific fact asked for (which districts in that year) is absent.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-11",
+  "verdict": "unanswerable",
+  "reason": "False-premise question about an LRS enhancement effective FY 2027-28. The evidence only ever states the existing USD 2,50,000 per financial year limit (rank 1, rank 5, rank 6, rank 7), and rank 4 lists only historical revisions (e.g. USD 100,000 to USD 200,000, Sept 26, 2007). No chunk announces, schedules or quantifies any future/revised limit for FY 2027-28. Rank 1's phrase 'any permitted current or capital account transaction' describes the current scheme, not an enhancement, so the specific asked-for revised figure and its capital-account scope are absent. Drafter's claim checks out.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-12",
+  "verdict": "unanswerable",
+  "reason": "No chunk mentions a Digital Payments Intelligence Platform or DPIP at all. Ranks 1, 2, 7, 8 are the Digital Payment Security Controls Directions, 2026 (architecture, risk assessment, customer protection) with no data-contribution obligation; rank 3 covers CERT-In / IB-CART threat-intelligence sharing; rank 4 is Form A/Form VIII on CIMS; rank 5 is Red Flagged Account reporting on CRILC; rank 6 is credit-information field formats. None defines contribution fields, submission frequency, or a mandatory participation date for any payments-intelligence platform. Topically adjacent only.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-13",
+  "verdict": "unanswerable",
+  "reason": "Ranks 1-7 (NBFC, AIFI, UCB, SFB, RRB, Commercial Bank, Rural Co-op versions of the Transfer and Distribution of Credit Risk Directions, 2025) all carry the identical wording that entities shall report each loan transfer to a trade reporting platform 'as notified by the Reserve Bank' and that 'The detailed instructions in this regard will be issued separately' - explicitly withholding the start date, format and per-transaction timeline. Rank 8 (Rupee Interest Rate Derivatives Directions, 2025) does give a reporting format authority (CCIL) and a cut-off time, but for IRD market-maker transactions, a different regime entirely - it is not the loan-transfer trade reporting platform. Drafter's claim confirmed.",
+  "answering_chunk": 0
+ },
+ {
+  "qid": "unans-time-14",
+  "verdict": "unanswerable",
+  "reason": "Rank 3 (Commercial Banks - Resolution of Stressed Assets, 2025) shows the reference-date table verbatim: Rs 2000 crore and above - June 07, 2019; Rs 1500 crore and above but less than Rs 2000 crore - January 1, 2020; 'Less than Rs 1500 crore - To be announced in due course'. Rank 1 (SFB) and rank 4 (AIFI) repeat the same unfilled row. An Rs 800 crore exposure falls in the band whose reference date the corpus explicitly leaves unannounced, so the specific date asked for is absent, and rank 3 para 43 only says Chapter IV does not apply below Rs 1,500 crore. Rank 6 does state generically that lenders enter the inter-creditor agreement 'during the Review Period', but that timing is anchored to the missing reference date, so it does not supply the by-when the question asks for. Partial generic material only, not the asked-for facts.",
+  "answering_chunk": 0
+ }
+]

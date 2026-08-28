@@ -1,0 +1,28 @@
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+.pytest_cache/
+
+# build artefacts (`pip wheel` / `python -m build` leave these behind)
+build/
+dist/
+*.whl
+
+# Cached source documents and the local DB.
+# The raw HTML cache is large (~3.6 MB) and reproducible from the scraper;
+# keep it out of git but never delete it locally — evals depend on it.
+data/raw/
+data/*.db
+data/*.db-wal
+data/*.db-shm
+
+.env
+
+# The embedding matrix and its id sidecar. 298 MB — over GitHub's 100 MB hard
+# limit — and fully reproducible with `python -m inforce.cli index`. The
+# manifest is kept: it is tiny and records which model built the matrix, which
+# is what `retrieve.check_fresh` compares against to refuse a stale index.
+data/index/*.npy
+data/*.log

@@ -1,0 +1,65 @@
+name: tests
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+  workflow_dispatch:
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+    strategy:
+      fail-fast: false
+      matrix:
+        python-version: ["3.11", "3.12", "3.13"]
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: ${{ matrix.python-version }}
+          cache: pip
+
+      - name: Install
+        run: python -m pip install --upgrade pip && pip install -e ".[dev]"
+
+      - name: Verify SQLite has FTS5
+        # BM25 retrieval depends on it. Some minimal SQLite builds omit FTS5, and
+        # the failure would otherwise surface as an unrelated test error.
+        run: |
+          python - <<'PY'
+          import sqlite3
+          c = sqlite3.connect(":memory:")
+          c.execute("CREATE VIRTUAL TABLE t USING fts5(x)")
+          print("sqlite", sqlite3.sqlite_version, "- FTS5 available")
+          PY
+
+      - name: Tests
+        run: pytest -q
+
+      - name: Import check
+        # Catches an undeclared dependency: the test suite may not import every
+        # module, but a fresh install must be able to.
+        run: |
+          python - <<'PY'
+          import importlib
+          for m in ["agent", "annex", "chunking", "cli", "crawl", "documents", "embedding",
+                    "entities", "evaluate", "fetch", "generate", "index",
+                    "lexical", "questions", "retrieve", "security", "verify", "server", "store",
+                    "temporal"]:
+              importlib.import_module(f"inforce.{m}")
+          print("all modules import cleanly")
+          PY
+
+      - name: Packaged demo page is present
+        # The demo loads static/index.html from the installed package. If it is
+        # not declared as package data the repo works and the install 404s.
+        run: |
+          python - <<'PY'
+          import pathlib, inforce
+          p = pathlib.Path(inforce.__file__).parent / "static" / "index.html"
+          assert p.exists(), f"missing packaged asset: {p}"
+          print("packaged demo page OK")
+          PY
